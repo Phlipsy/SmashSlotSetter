@@ -1,0 +1,105 @@
+
+<ModButton@Button>:
+    size_hint_y: None
+    padding: 10, 10
+    text_size: self.width, None
+    size: self.texture_size
+    halign: 'center'
+    on_release: self.load_info()
+
+
+
+<Main>:
+    mod_list:mod_list
+    info_box:info_box
+
+    size_hint: 1, 1
+    pos_hint: {'center_x': .5, 'center_y': .5}
+    do_default_tab: False
+    padding: 7
+    spacing: 5
+
+    TabbedPanelItem:
+        text: 'Mods'
+
+        BoxLayout:
+            orientation:"vertical"
+            spacing: 5
+            BoxLayout:
+                orientation:"horizontal"
+                spacing: 5
+                padding: 3
+                size_hint_y:.1
+                canvas.before:
+                    Color:
+                        rgba: 0.13725, 0.59216, 0.86275, 1
+                    Rectangle:
+                        pos: self.pos
+                        size: self.size
+                Button:
+                    size_hint_x:None
+                    text:'Refresh Mods'
+                    on_release: root.load_mods()
+
+            BoxLayout:
+                orientation:"horizontal"
+                ScrollView:
+                    do_scroll_y: True
+                    size_hint_x:.3
+                    GridLayout:
+                        id:mod_list
+                        cols: 1
+                        size_hint_y: None
+                        height: self.minimum_height
+                        Button:
+                            text:"test1"
+                            size_hint_y: None
+                            on_release: root.add_mod()
+                        Label:
+                            text:"test2"
+                            size_hint_y: None
+                BoxLayout:
+                    canvas.before:
+                        Color:
+                            rgba: 0.1, 0.7, 0.8, 1
+                        Rectangle:
+                            pos: self.pos
+                            size: self.size
+                    orientation:"vertical"
+                    GridLayout:
+                        cols: 2
+                        size_hint_y: 0.4
+                        title:title
+                        chars:chars
+                        link:link
+                        image:image
+                        skins:skins
+                        id:info_box
+                        Label:
+                            id:chars
+                            size_hint_y: 0.2
+                        Label:
+                            id:title
+                            size_hint_y: 0.2
+                        Label:
+                            id:link
+                            size_hint_y: None
+                        AsyncImage
+                            id:image
+                            size_hint_y: None
+                    ScrollView:
+                        do_scroll_y: True
+                        canvas.before:
+                            Color:
+                                rgba: 0.2, 0.6, 0.7, 1
+                            Rectangle:
+                                pos: self.pos
+                                size: self.size
+                        id:skins
+
+
+
+
+    TabbedPanelItem:
+        text: 'Settings'
+        SettingsTab

@@ -1,5 +1,6 @@
 import os
 import json
+from tqdm import tqdm
 
 from src.Mod import Mod, ModFolder
 from src.globals import QUASAR_METADATA_FILES
@@ -8,7 +9,7 @@ from src.help.fighter_names.util import c2f
 
 def search_subdirectories(path):
     found_mods = []
-    for folder in ["36b50b87-3604-4fb6-a2d9-f778a56d8ba2"]:  # os.listdir(path):
+    for folder in tqdm(os.listdir(path)):
         mod_folder = ModFolder(os.path.join(path, folder))
         if mod_folder.valid:
             found_mods.append(mod_folder)

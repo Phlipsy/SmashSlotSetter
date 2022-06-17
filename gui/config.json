@@ -1,0 +1,37 @@
+[
+    {
+        "type": "path",
+        "title": "Folder 1",
+        "desc": "One of the folders where the program will look for mods",
+        "section": "custom",
+        "key": "mod_dirs0"
+    },
+    {
+        "type": "path",
+        "title": "Folder 2",
+        "desc": "One of the folders where the program will look for mods",
+        "section": "custom",
+        "key": "mod_dirs1"
+    },
+    {
+        "type": "path",
+        "title": "Folder 3",
+        "desc": "One of the folders where the program will look for mods",
+        "section": "custom",
+        "key": "mod_dirs2"
+    },
+    {
+        "type": "path",
+        "title": "Folder 4",
+        "desc": "One of the folders where the program will look for mods",
+        "section": "custom",
+        "key": "mod_dirs3"
+    },
+    {
+        "type": "path",
+        "title": "Folder 5",
+        "desc": "One of the folders where the program will look for mods",
+        "section": "custom",
+        "key": "mod_dirs4"
+    }
+]

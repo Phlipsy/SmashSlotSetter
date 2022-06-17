@@ -1,4 +1,6 @@
+import json
 import os
+import requests
 from pprint import pprint
 from os import path, listdir, walk
 from shutil import copytree, copy2
@@ -6,15 +8,42 @@ from shutil import copytree, copy2
 from src.globals import MOD_SUBFOLDERS, UMM_SUBFOLDERS, slot_re, ui_slot_re
 from src.help.fighter_names.util import c2f, c2n
 from src.help.unique_textures.util import make_config
-from src.utils import find_in_dict, find_file_in_dict, make_dir
+from src.utils import find_in_dict, find_file_in_dict, make_dir, merge_dicts
 
 
 class ModFolder:
     def __init__(self, f_path):
         self.path = f_path
-        self.name = path.basename(f_path)
+        self.metadata = self.get_gb_data()
+        self.name = self.get_name()
         self.mods = self.get_submods()
         self.valid = len(self.mods) > 0
+
+    def get_gb_data(self):
+        data = {}
+        fp = path.join(self.path, "LibraryData.json")
+        if path.exists(fp):
+            with open(fp, "r", encoding="utf8") as f:
+                meta_data = json.load(f)
+            data["name"] = meta_data["Name"]
+            data["id"] = meta_data['GBItem']['GamebananaItemID']
+            data["url"] = f"https://gamebanana.com/mods/{data['id']}"
+
+        return data
+
+    def get_img(self):
+        try:
+            img = requests.get("https://api.gamebanana.com/Core/Item/Data",
+                               {"itemtype": "Mod", "itemid": self.metadata['id'],
+                                "fields": "Preview().sStructuredDataFullsizeUrl()"}).json()[0]
+        except Exception:
+            img = ""
+        return img
+
+    def get_name(self):
+        if "name" in self.metadata:
+            return self.metadata["name"]
+        return path.basename(self.path)
 
     def get_submods(self):
         mods = []
@@ -31,6 +60,13 @@ class ModFolder:
                 mods.append(Mod(root, umm=True))
         return mods
 
+    def get_all_fighters(self):
+        fighters = set([])
+        for mod in self.mods:
+            if mod.fighter:
+                fighters.update(mod.fighter.chars)
+        return fighters
+
 
 class Mod:
     def __init__(self, f_path, umm=False):
@@ -40,6 +76,7 @@ class Mod:
         self.dir = self.get_dir()
         self.fighter, self.ui, self.effect, self.sound, self.stream = self.parse_folders()
         self.has_config = path.exists(path.join(self.path, "config.json"))
+        self.info = self.get_info()
 
     def get_dir(self):
         def get_dir_rec(p):
@@ -71,6 +108,21 @@ class Mod:
                 if self.sound:
                     self.sound.copy(fighter_code, change[0], change[1], path.join(out_folder, "sound"))
         make_config(out_folder, slot_changes, self.path if self.has_config else "")
+
+    def get_slots(self):
+        if self.fighter:
+            return self.fighter.slots
+        return {}
+
+    def get_info(self):
+        info = {}
+        if self.fighter:
+            merge_dicts(info, self.fighter.slots)
+        if self.ui:
+            merge_dicts(info, self.ui.slots)
+        if self.sound:
+            merge_dicts(info, self.sound.slots)
+        return info
 
 
 class FighterData:
@@ -159,7 +211,7 @@ class UIData:
             found_files = find_file_in_dict(self.dir, c)
             char_slots = {}
             for s in found_files:
-                if "chara_5" in s or "chara_7" in s:
+                if "chara_5" in s or "chara_7" in s or "chara_10" in s:
                     continue
                 m = ui_slot_re.search(s[-1])
                 if m:
