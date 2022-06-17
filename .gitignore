@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+Neuer Ordner
+found_mods.txt

@@ -1,0 +1,2245 @@
+Bayonetta Even Slot (Bayonetta 2 skin)
+	Over Odd
+		"fighter/bayonetta/c01": [
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_001_col.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_001_nor.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_001_prm.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_002_col.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_002_nor.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_002_prm.nutexb",
+			"fighter/bayonetta/model/body/c01/alp_bayonetta_009_col.nutexb"
+        ]
+Bayonetta Odd Slot (Bayonetta 1 skin)
+	Over Even
+		"fighter/bayonetta/c00": [
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_005_col.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_005_nor.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_005_prm.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_006_col.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_006_nor.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_006_prm.nutexb",
+			"fighter/bayonetta/model/body/c00/alp_bayonetta_006_drill_col.nutexb",
+			"fighter/bayonetta/model/body/c00/def_bayonetta_002_col.nutexb",
+			"fighter/bayonetta/model/body/c00/def_bayonetta_002_nor.nutexb",
+			"fighter/bayonetta/model/body/c00/def_bayonetta_002_prm.nutexb"
+		]
+Bowser JR. c00 (Bowser JR. skin)
+	Over any other
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/alp_koopajr_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/alp_koopajr_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/alp_koopajr_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/def_koopajr_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/def_koopajr_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/def_koopajr_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_eye_koopajr_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_koopajr_b_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_koopajr_b_nor.nutexb",
+			"fighter/koopajr/model/body/c01/eye_koopajr_b_prm.nutexb",
+			"fighter/koopajr/model/body/c01/eye_koopajr_g_col.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_eye_koopajr_l_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_koopajr_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_koopajr_002_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_koopajr_002_nor.nutexb",
+			"fighter/koopajr/model/body/c01/metal_koopajr_002_prm.nutexb"
+		]
+Bowser JR. c01 (Larry skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_larry_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_larry_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_larry_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eye_larryhead_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_larryhead_k_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_larryhead_kg_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_mario_w_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_eye_larryhead_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_larry_001_col.nutexb"
+		]
+	Over c02 or c03
+		"fighter/koopajr/c02": [
+			"fighter/koopajr/model/body/c02/body_larry_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/body_larry_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/body_larry_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_eye_larryhead_d_col.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c02/eye_larryhead_k_col.nutexb",
+			"fighter/koopajr/model/body/c02/eye_larryhead_kg_col.nutexb",
+			"fighter/koopajr/model/body/c02/eye_mario_w_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c02/leyes_eye_larryhead_1_col.nutexb",
+			"fighter/koopajr/model/body/c02/metal_larry_001_col.nutexb"
+		]
+	Over c04,c05, or c06
+		"fighter/koopajr/c04": [
+			"fighter/koopajr/model/body/c04/body_larry_001_col.nutexb",
+			"fighter/koopajr/model/body/c04/body_larry_001_nor.nutexb",
+			"fighter/koopajr/model/body/c04/body_larry_001_prm.nutexb",
+			"fighter/koopajr/model/body/c04/deyes_eye_larryhead_d_col.nutexb",
+			"fighter/koopajr/model/body/c04/eye_larryhead_k_col.nutexb",
+			"fighter/koopajr/model/body/c04/eye_larryhead_kg_col.nutexb",
+			"fighter/koopajr/model/body/c04/eye_mario_w_nor.nutexb",
+			"fighter/koopajr/model/body/c04/leyes_eye_larryhead_1_col.nutexb",
+			"fighter/koopajr/model/body/c04/metal_larry_001_col.nutexb"
+		]
+	Over c07
+		"fighter/koopajr/c07": [
+			"fighter/koopajr/model/body/c07/body_larry_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/body_larry_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/body_larry_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_eye_larryhead_d_col.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c07/eye_larryhead_k_col.nutexb",
+			"fighter/koopajr/model/body/c07/eye_larryhead_kg_col.nutexb",
+			"fighter/koopajr/model/body/c07/eye_mario_w_nor.nutexb",
+			"fighter/koopajr/model/body/c07/leyes_eye_larryhead_1_col.nutexb",
+			"fighter/koopajr/model/body/c07/metal_larry_001_col.nutexb"
+		]
+Bowser JR. c02 (Roy skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_roy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_roy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_roy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eye_roy_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_roy_b_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_roy_b_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eye_roy_b_prm.nutexb",
+			"fighter/koopajr/model/body/c00/eye_roy_g_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_roy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_roy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/head_roy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_eye_roy_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_roy_001_col.nutexb"
+		]
+	Over c01,c03,c04,c05,c06, or c07
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/body_roy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/body_roy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/body_roy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_eye_roy_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_roy_b_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_roy_b_nor.nutexb",
+			"fighter/koopajr/model/body/c01/eye_roy_b_prm.nutexb",
+			"fighter/koopajr/model/body/c01/eye_roy_g_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_roy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_roy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/head_roy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_eye_roy_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_roy_001_col.nutexb"
+		]
+Bowser JR. c03 (Wendy skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/def_wendy_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eye_wendy_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eye_wendy_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_b_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_b_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_b_prm.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_g_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_w_col.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_w_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eye_wendy_w_prm.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_eye_wendy_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_wendy_001_col.nutexb"
+		]
+	Over c01,c03,c04,c05,c06, or c07
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/def_wendy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/def_wendy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/def_wendy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/def_wendy_002_col.nutexb",
+			"fighter/koopajr/model/body/c01/def_wendy_002_nor.nutexb",
+			"fighter/koopajr/model/body/c01/def_wendy_002_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_eye_wendy_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_eye_wendy_wd_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_b_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_b_nor.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_b_prm.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_g_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_w_col.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_w_nor.nutexb",
+			"fighter/koopajr/model/body/c01/eye_wendy_w_prm.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_eye_wendy_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_wendy_001_col.nutexb"
+		]
+Bowser JR. c04 (Iggy skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_iggy_eye_black_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c00/head_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/head_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/iggy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c00/iggy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_iggy_eye_black_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_iggy_001_col.nutexb"
+		]
+	Over c01,c05, or c06
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/body_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/body_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/body_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_iggy_eye_black_d_col.nutexb"
+			"fighter/koopajr/model/body/c01/head_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/head_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/iggy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c01/iggy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_iggy_eye_black_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_iggy_001_col.nutexb"
+		]
+	Over c02 or c03
+		"fighter/koopajr/c02": [
+			"fighter/koopajr/model/body/c02/body_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/body_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/body_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_iggy_eye_black_d_col.nutexb"
+			"fighter/koopajr/model/body/c02/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c02/head_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/head_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/head_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/iggy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c02/iggy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c02/leyes_iggy_eye_black_1_col.nutexb",
+			"fighter/koopajr/model/body/c02/metal_iggy_001_col.nutexb"
+		]
+	Over c07
+		"fighter/koopajr/c07": [
+			"fighter/koopajr/model/body/c07/body_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/body_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/body_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_iggy_eye_black_d_col.nutexb"
+			"fighter/koopajr/model/body/c07/head_iggy_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/head_iggy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/head_iggy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/iggy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c07/iggy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c07/leyes_iggy_eye_black_1_col.nutexb",
+			"fighter/koopajr/model/body/c07/metal_iggy_001_col.nutexb"
+		]
+Bowser JR. c05 (Morton skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_morton_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c00/head_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/head_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_morton_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/morton_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c00/morton_eye_gold_col.nutexb"
+		]
+	Over c01,c04, or c06
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/body_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/body_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/body_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_morton_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/head_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_morton_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/morton_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c01/morton_eye_gold_col.nutexb"
+		]
+	Over c02 or c03
+		"fighter/koopajr/c02": [
+			"fighter/koopajr/model/body/c02/body_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/body_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/body_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_morton_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c02/head_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/head_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/head_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/leyes_morton_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c02/metal_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/morton_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c02/morton_eye_gold_col.nutexb"
+		]
+	Over c07
+		"fighter/koopajr/c07": [
+			"fighter/koopajr/model/body/c07/body_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/body_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/body_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_morton_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c07/head_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/head_morton_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/head_morton_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/leyes_morton_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c07/metal_morton_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/morton_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c07/morton_eye_gold_col.nutexb"
+		]
+Bowser JR. c06 (Lemmy skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_lemmy_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c00/head_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/head_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/lemmy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c00/lemmy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_lemmy_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_lemmy_001_col.nutexb"	
+		]
+	Over c01,c04, or c05
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/body_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/body_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/body_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_lemmy_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/head_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/lemmy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c01/lemmy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_lemmy_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_lemmy_001_col.nutexb"	
+		]
+	Over c02 or c03
+		"fighter/koopajr/c02": [
+			"fighter/koopajr/model/body/c02/body_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/body_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/body_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_lemmy_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c02/head_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/head_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/head_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/lemmy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c02/lemmy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c02/leyes_lemmy_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c02/metal_lemmy_001_col.nutexb"	
+		]
+	Over c07
+		"fighter/koopajr/c07": [
+			"fighter/koopajr/model/body/c07/body_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/body_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/body_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_eyel_wd_col.nutexb",
+			"fighter/koopajr/model/body/c07/deyes_lemmy_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c07/head_lemmy_001_col.nutexb",
+			"fighter/koopajr/model/body/c07/head_lemmy_001_nor.nutexb",
+			"fighter/koopajr/model/body/c07/head_lemmy_001_prm.nutexb",
+			"fighter/koopajr/model/body/c07/lemmy_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c07/lemmy_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c07/leyes_lemmy_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c07/metal_lemmy_001_col.nutexb"	
+		]
+Bowser JR. c07 (Ludwig skin)
+	Over c00
+		"fighter/koopajr/c00": [
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_001_emi.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_col.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_nor.nutexb",
+			"fighter/koopajr/model/body/c00/alp_ludwig_002_prm.nutexb",
+			"fighter/koopajr/model/body/c00/body_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/body_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/body_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_alp_ludwig_001_d_emi.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_ludwig_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c00/deyes_ludwig_wd_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c00/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c00/head_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c00/head_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c00/head_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/leyes_ludwig_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c00/ludwig_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c00/ludwig_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c00/metal_ludwig_001_col.nutexb"	
+		]	
+	Over c01,c04,c05, or c06
+		"fighter/koopajr/c01": [
+			"fighter/koopajr/model/body/c01/body_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/body_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/body_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_ludwig_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c01/deyes_ludwig_wd_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c01/head_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c01/head_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c01/leyes_ludwig_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c01/ludwig_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c01/ludwig_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c01/metal_ludwig_001_col.nutexb"	
+		]
+	Over c02 or c03
+		"fighter/koopajr/c02": [
+			"fighter/koopajr/model/body/c02/body_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/body_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/body_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_ludwig_eye_d_col.nutexb",
+			"fighter/koopajr/model/body/c02/deyes_ludwig_wd_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_col.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_nor.nutexb",
+			"fighter/koopajr/model/body/c02/eyel_prm.nutexb",
+			"fighter/koopajr/model/body/c02/head_ludwig_001_col.nutexb",
+			"fighter/koopajr/model/body/c02/head_ludwig_001_nor.nutexb",
+			"fighter/koopajr/model/body/c02/head_ludwig_001_prm.nutexb",
+			"fighter/koopajr/model/body/c02/leyes_ludwig_eye_1_col.nutexb",
+			"fighter/koopajr/model/body/c02/ludwig_eye_black_col.nutexb",
+			"fighter/koopajr/model/body/c02/ludwig_eye_gold_col.nutexb",
+			"fighter/koopajr/model/body/c02/metal_ludwig_001_col.nutexb"	
+		]
+Byleth Even Slot (Male skin)
+	Over Odd
+		"fighter/master/c01": [
+			"fighter/master/model/body/c01/alp_master_001_col.nutexb",
+			"fighter/master/model/body/c01/alp_master_001_nor.nutexb",
+			"fighter/master/model/body/c01/alp_master_001_prm.nutexb",
+			"fighter/master/model/body/c01/alp_master_002_col.nutexb",
+			"fighter/master/model/body/c01/alp_master_002_nor.nutexb",
+			"fighter/master/model/body/c01/alp_master_002_prm.nutexb",
+			"fighter/master/model/body/c01/alp_master_003_col.nutexb",
+			"fighter/master/model/body/c01/alp_master_003_nor.nutexb",
+			"fighter/master/model/body/c01/alp_master_003_prm.nutexb",
+			"fighter/master/model/body/c01/def_master_001_col.nutexb",
+			"fighter/master/model/body/c01/def_master_001_nor.nutexb",
+			"fighter/master/model/body/c01/def_master_001_prm.nutexb",
+			"fighter/master/model/body/c01/def_master_002_c06_col.nutexb",
+			"fighter/master/model/body/c01/def_master_002_col.nutexb",
+			"fighter/master/model/body/c01/def_master_002_nor.nutexb",
+			"fighter/master/model/body/c01/def_master_002_prm.nutexb",
+			"fighter/master/model/body/c01/def_master_003_col.nutexb",
+			"fighter/master/model/body/c01/def_master_003_nor.nutexb",
+			"fighter/master/model/body/c01/def_master_003_prm.nutexb",
+			"fighter/master/model/body/c01/def_master_004_col.nutexb",
+			"fighter/master/model/body/c01/def_master_002_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_b_l_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_b_r_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_g_l_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_g_r_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_w_col.nutexb",
+			"fighter/master/model/body/c01/eye_master_w_nor.nutexb",
+			"fighter/master/model/body/c01/eye_master_w_prm.nutexb",
+			"fighter/master/model/body/c01/skin_master_001_col.nutexb",
+			"fighter/master/model/body/c01/skin_master_001_nor.nutexb",
+			"fighter/master/model/body/c01/skin_master_001_prm.nutexb",
+			"fighter/master/model/body/c01/skin_master_002_col.nutexb",
+			"fighter/master/model/body/c01/skin_master_002_nor.nutexb",
+			"fighter/master/model/body/c01/skin_master_002_prm.nutexb"
+		]
+Byleth Odd Slot (Female skin)
+	Over Even
+		"fighter/master/c00": [
+			"fighter/master/model/body/c00/alp_master_female_001_col.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_001_nor.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_001_prm.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_002_col.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_002_nor.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_002_prm.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_003_col.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_003_nor.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_003_prm.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_004_col.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_004_nor.nutexb",
+			"fighter/master/model/body/c00/alp_master_female_004_prm.nutexb",
+			"fighter/master/model/body/c00/def_master_female_001_col.nutexb",
+			"fighter/master/model/body/c00/def_master_female_001_nor.nutexb",
+			"fighter/master/model/body/c00/def_master_female_001_prm.nutexb",
+			"fighter/master/model/body/c00/def_master_female_002_col.nutexb",
+			"fighter/master/model/body/c00/def_master_female_002_nor.nutexb",
+			"fighter/master/model/body/c00/def_master_female_002_prm.nutexb",
+			"fighter/master/model/body/c00/def_master_female_003_col.nutexb",
+			"fighter/master/model/body/c00/def_master_female_003_nor.nutexb",
+			"fighter/master/model/body/c00/def_master_female_003_prm.nutexb",
+			"fighter/master/model/body/c00/def_master_female_004_col.nutexb",
+			"fighter/master/model/body/c00/def_master_female_002_col.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_b_l_col.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_b_r_col.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_g_col.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_w_col.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_w_nor.nutexb",
+			"fighter/master/model/body/c00/eye_master_female_w_prm.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_001_col.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_001_nor.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_001_prm.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_002_col.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_002_nor.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_002_prm.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_003_col.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_003_nor.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_003_prm.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_004_col.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_004_nor.nutexb",
+			"fighter/master/model/body/c00/skin_master_female_004_prm.nutexb"
+		]		
+Cloud Even Slot (FFVII skin)
+	Over Odd
+		"fighter/cloud/c01": [
+			"fighter/cloud/model/body/c01/def_cloud_004_col.nutexb",
+			"fighter/cloud/model/body/c01/def_cloud_004_nor.nutexb",
+			"fighter/cloud/model/body/c01/def_cloud_004_prm.nutexb"
+		]
+Corrin Even Slot (Male Corrin)
+	Over Odd
+		"fighter/kamui/c01": [
+			"fighter/kamui/model/body/c01/alp_kamui_001_col.nutexb",
+			"fighter/kamui/model/body/c01/alp_kamui_001_nor.nutexb",
+			"fighter/kamui/model/body/c01/alp_kamui_001_prm.nutexb",
+			"fighter/kamui/model/body/c01/alp_kamui_002_col.nutexb",
+			"fighter/kamui/model/body/c01/alp_kamui_002_nor.nutexb",
+			"fighter/kamui/model/body/c01/alp_kamui_002_prm.nutexb",
+			"fighter/kamui/model/body/c01/def_dragonhaed_kamui_001_col.nutexb",
+			"fighter/kamui/model/body/c01/def_kamui_001_col.nutexb",
+			"fighter/kamui/model/body/c01/def_kamui_001_nor.nutexb",
+			"fighter/kamui/model/body/c01/def_kamui_001_prm.nutexb",
+			"fighter/kamui/model/body/c01/def_wing_kamui_001_col.nutexb",
+			"fighter/kamui/model/body/c01/def_wing_kamui_001_nor.nutexb",
+			"fighter/kamui/model/body/c01/def_wing_kamui_001_prm.nutexb",
+			"fighter/kamui/model/body/c01/deyes_eye_kamui_d_col.nutexb",
+			"fighter/kamui/model/body/c01/deyes_eye_kamui_wd_col.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_bl_col.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_br_col.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_g_col.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_w_col.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_w_nor.nutexb",
+			"fighter/kamui/model/body/c01/eye_kamui_w_prm.nutexb",
+			"fighter/kamui/model/body/c01/leyes_eye_kamui_l_col.nutexb",
+			"fighter/kamui/model/body/c01/skin_kamui_001_col.nutexb",
+			"fighter/kamui/model/body/c01/skin_kamui_001_nor.nutexb",
+			"fighter/kamui/model/body/c01/skin_kamui_001_prm.nutexb"
+		]
+Corrin Odd Slot (Female Corrin)
+	Over Even
+		"fighter/kamui/c00": [
+			"fighter/kamui/model/body/c00/alp_kamuif_001_col.nutexb",
+			"fighter/kamui/model/body/c00/alp_kamuif_001_nor.nutexb",
+			"fighter/kamui/model/body/c00/alp_kamuif_001_prm.nutexb",
+			"fighter/kamui/model/body/c00/alp_kamuif_002_col.nutexb",
+			"fighter/kamui/model/body/c00/alp_kamuif_002_nor.nutexb",
+			"fighter/kamui/model/body/c00/alp_kamuif_002_prm.nutexb",
+			"fighter/kamui/model/body/c00/def_dragonhaed_kamuif_001_col.nutexb",
+			"fighter/kamui/model/body/c00/def_kamuif_001_col.nutexb",
+			"fighter/kamui/model/body/c00/def_kamuif_001_nor.nutexb",
+			"fighter/kamui/model/body/c00/def_kamuif_001_prm.nutexb",
+			"fighter/kamui/model/body/c00/def_wing_kamuif_001_col.nutexb",
+			"fighter/kamui/model/body/c00/def_wing_kamuif_001_nor.nutexb",
+			"fighter/kamui/model/body/c00/def_wing_kamuif_001_prm.nutexb",
+			"fighter/kamui/model/body/c00/deyes_eye_kamuif_d_col.nutexb",
+			"fighter/kamui/model/body/c00/deyes_eye_kamuif_wd_col.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_bl_col.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_br_col.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_g_col.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_w_col.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_w_nor.nutexb",
+			"fighter/kamui/model/body/c00/eye_kamuif_w_prm.nutexb",
+			"fighter/kamui/model/body/c00/leyes_eye_kamuif_l_col.nutexb",
+			"fighter/kamui/model/body/c00/skin_kamuif_001_col.nutexb",
+			"fighter/kamui/model/body/c00/skin_kamuif_001_nor.nutexb",
+			"fighter/kamui/model/body/c00/skin_kamuif_001_prm.nutexb"
+		]
+Hero c00 and c04 (DQ11 skin)
+	Over c01 or c05
+		"fighter/hero/c01": [
+			"fighter/brave/model/body/c01/alp_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c01/alp_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c01/alp_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c01/alp_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c01/alp_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c01/alp_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c01/def_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_b_col.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_b_r_col.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_g_col.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_g_r_col.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_w_col.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_w_nor.nutexb",
+			"fighter/brave/model/body/c01/eye_brave11_w_prm.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c01/met_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c01/skin_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c01/skin_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c01/skin_brave11_001_prm.nutexb"
+		]
+	Over c02,c03,c06, or c07
+		"fighter/hero/c01": [
+			"fighter/brave/model/body/c02/alp_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c02/alp_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c02/def_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_b_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_b_r_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_g_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_g_r_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_w_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_w_nor.nutexb",
+			"fighter/brave/model/body/c02/eye_brave11_w_prm.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_002_col.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_002_nor.nutexb",
+			"fighter/brave/model/body/c02/met_brave11_002_prm.nutexb",
+			"fighter/brave/model/body/c02/skin_brave11_001_col.nutexb",
+			"fighter/brave/model/body/c02/skin_brave11_001_nor.nutexb",
+			"fighter/brave/model/body/c02/skin_brave11_001_prm.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_prm.nutexb"
+		]
+Hero c01 and c05 (DQ3 skin)
+	Over c00 or c04
+		"fighter/brave/c00": [
+			"fighter/brave/model/body/c00/alp_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c00/alp_brave3_004_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave3_004_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave3_004_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_b_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_b_r_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_g_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_g_r_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_w_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_w_nor.nutexb",
+			"fighter/brave/model/body/c00/eye_brave3_w_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c00/skin_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c00/skin_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c00/skin_brave3_001_prm.nutexb"
+		]
+	Over c02,c03,c06 or c07
+		"fighter/brave/c02": [
+			"fighter/brave/model/body/c02/alp_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_003_prm.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_004_col.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_004_nor.nutexb",
+			"fighter/brave/model/body/c02/alp_brave3_004_prm.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c02/def_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_b_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_b_r_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_g_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_g_r_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_w_col.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_w_nor.nutexb",
+			"fighter/brave/model/body/c02/eye_brave3_w_prm.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c02/metal_brave3_002_prm.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_001_col.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_001_nor.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_001_prm.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_002_col.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_002_nor.nutexb",
+			"fighter/brave/model/body/c02/skin_brave3_002_prm.nutexb"
+		]
+Hero c02 and c06 (DQ4 skin)
+	Over any other
+		"fighter/brave/c00": [
+			"fighter/brave/model/body/c00/alp_brave4_001_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_001_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_001_prm.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_002_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_002_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_002_prm.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_003_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_003_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave4_003_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave4_001_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave4_001_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave4_001_prm.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_b_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_b_r_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_g_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_w_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_w_nor.nutexb",
+			"fighter/brave/model/body/c00/eye_brave4_w_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_001_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_001_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_001_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_002_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_002_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave4_002_prm.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_001_col.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_001_nor.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_001_prm.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_002_col.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_002_nor.nutexb",
+			"fighter/brave/model/body/c00/skin_brave4_002_prm.nutexb"
+		]
+Hero c03 and c07 (DQ8 skin)
+	Over any other
+		"fighter/brave/c00": [
+			"fighter/brave/model/body/c00/alp_brave8_001_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave8_001_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave8_001_prm.nutexb",
+			"fighter/brave/model/body/c00/alp_brave8_002_col.nutexb",
+			"fighter/brave/model/body/c00/alp_brave8_002_nor.nutexb",
+			"fighter/brave/model/body/c00/alp_brave8_002_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_001_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_001_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_001_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_002_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_002_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_002_prm.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_003_col.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_003_nor.nutexb",
+			"fighter/brave/model/body/c00/def_brave8_003_prm.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_b_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_b_r_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_g_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_w_col.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_w_nor.nutexb",
+			"fighter/brave/model/body/c00/eye_brave8_w_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_001_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_001_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_001_prm.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_002_col.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_002_nor.nutexb",
+			"fighter/brave/model/body/c00/metal_brave8_002_prm.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_001_col.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_001_nor.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_001_prm.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_002_col.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_002_nor.nutexb",
+			"fighter/brave/model/body/c00/skin_brave8_002_prm.nutexb"
+		]
+Ice Climbers c00-c03 (Popo skin)
+	Over c04,c05,c06, or c07
+		"fighter/nana/c04": [
+			"fighter/nana/model/body/c04/def_nana_001_col.nutexb",
+			"fighter/nana/model/body/c04/skin_nana_001_col.nutexb",
+			"fighter/nana/model/body/c04/skin_nana_001_nor.nutexb",
+			"fighter/nana/model/body/c04/skin_nana_001_prm.nutexb"
+		],
+		"fighter/popo/c04": [
+			"fighter/popo/model/body/c04/def_popo_001_col.nutexb",
+			"fighter/popo/model/body/c04/skin_popo_001_col.nutexb",
+			"fighter/popo/model/body/c04/skin_popo_001_nor.nutexb",
+			"fighter/popo/model/body/c04/skin_popo_001_prm.nutexb"
+		]
+Ice Climbers c04-c07 (Nana skin)
+	Over c00,c01,c02, or c03
+		"fighter/nana/c00": [
+			"fighter/nana/model/body/c00/def_popo_001_col.nutexb",
+			"fighter/nana/model/body/c00/skin_popo_001_col.nutexb",
+			"fighter/nana/model/body/c00/skin_popo_001_nor.nutexb",
+			"fighter/nana/model/body/c00/skin_popo_001_prm.nutexb"
+		],
+		"fighter/popo/c00": [
+			"fighter/popo/model/body/c00/def_nana_001_col.nutexb",
+			"fighter/popo/model/body/c00/skin_nana_001_col.nutexb",
+			"fighter/popo/model/body/c00/skin_nana_001_nor.nutexb",
+			"fighter/popo/model/body/c00/skin_nana_001_prm.nutexb"
+		]
+Ike Even Slot (Path of Radiance skin)
+	Over Odd
+		"fighter/ike/c01": [
+			"fighter/ike/model/body/c01/alp_ike_001_col.nutexb",
+			"fighter/ike/model/body/c01/alp_lke_001_nor.nutexb",
+			"fighter/ike/model/body/c01/alp_lke_001_prm.nutexb",
+			"fighter/ike/model/body/c01/def_ike_001_col.nutexb",
+			"fighter/ike/model/body/c01/def_ike_001_nor.nutexb",
+			"fighter/ike/model/body/c01/def_ike_001_prm.nutexb",
+			"fighter/ike/model/body/c01/ike_hair_001_nor.nutexb",
+			"fighter/ike/model/body/c01/ike_hair_001_prm.nutexb",
+			"fighter/ike/model/body/c01/ike_hair_1_col.nutexb",
+			"fighter/ike/model/body/c01/mayu_ike_001_col.nutexb",
+			"fighter/ike/model/body/c01/mayu_ike_001_nor.nutexb",
+			"fighter/ike/model/body/c01/mayu_ike_001_prm.nutexb",
+			"fighter/ike/model/body/c01/metal_ike_001_col.nutexb",
+			"fighter/ike/model/body/c01/metal_ike_001_nor.nutexb",
+			"fighter/ike/model/body/c01/metal_ike_001_prm.nutexb",
+			"fighter/ike/model/body/c01/skin_ike_001_col.nutexb",
+			"fighter/ike/model/body/c01/skin_ike_001_nor.nutexb",
+			"fighter/ike/model/body/c01/skin_ike_001_prm.nutexb"
+		]
+Ike Odd Slot (Radiant Dawn skin)
+	Over Even
+		"fighter/ike/c00": [
+			"fighter/ike/model/body/c00/alp_lucina_001_col.nutexb",
+			"fighter/ike/model/body/c00/alp_lucina_001_prm.nutexb",
+			"fighter/ike/model/body/c00/def_ike_001_osan_col.nutexb",
+			"fighter/ike/model/body/c00/def_ike_001_osan_nor.nutexb",
+			"fighter/ike/model/body/c00/def_ike_001_osan_prm.nutexb",
+			"fighter/ike/model/body/c00/ike_hair_2_col.nutexb",
+			"fighter/ike/model/body/c00/mayu_ike_001_col.nutexb",
+			"fighter/ike/model/body/c00/mayu_ike_001_nor.nutexb",
+			"fighter/ike/model/body/c00/mayu_ike_001_prm.nutexb",
+			"fighter/ike/model/body/c00/metal_ike_001_osan_col.nutexb",
+			"fighter/ike/model/body/c00/metal_ike_001_osan_nor.nutexb",
+			"fighter/ike/model/body/c00/metal_ike_001_osan_prm.nutexb",
+			"fighter/ike/model/body/c00/skin_ike_001_osan_col.nutexb",
+			"fighter/ike/model/body/c00/skin_ike_001_osan_nor.nutexb",
+			"fighter/ike/model/body/c00/skin_ike_001_osan_prm.nutexb"
+		]
+Inkling c00 (Orange skin)
+	Over any other
+		"fighter/inkling/c01": [
+			"fighter/inkling/model/body/c01/alp_inkling_girl_001_col.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_001_nor.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_001_prm.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_002_col.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_002_nor.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_002_prm.nutexb",
+			"fighter/inkling/model/body/c01/alp_inkling_girl_003_col.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_001_col.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_001_nor.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_001_prm.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_002_col.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_002_nor.nutexb",
+			"fighter/inkling/model/body/c01/def_inkling_girl_002_prm.nutexb",
+			"fighter/inkling/model/body/c01/deyes_eye_inkling_girl_d_col.nutexb",
+			"fighter/inkling/model/body/c01/deyes_eye_inkling_girl_wd_col.nutexb",
+			"fighter/inkling/model/body/c01/eye_inkling_girl_b_col.nutexb",
+			"fighter/inkling/model/body/c01/eye_inkling_girl_g_col.nutexb",
+			"fighter/inkling/model/body/c01/eye_inkling_girl_w_col.nutexb",
+			"fighter/inkling/model/body/c01/eye_inkling_girl_w_nor.nutexb",
+			"fighter/inkling/model/body/c01/eye_inkling_girl_w_prm.nutexb",
+			"fighter/inkling/model/body/c01/leyes_eye_inkling_girl_l_col.nutexb",
+			"fighter/inkling/model/body/c01/skin_inkling_girl_001_col.nutexb",
+			"fighter/inkling/model/body/c01/skin_inkling_girl_001_nor.nutexb",
+			"fighter/inkling/model/body/c01/skin_inkling_girl_001_prm.nutexb"
+		]
+Inkling c01 (Blue skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_boy_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_boy_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_boy_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_boy_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_boy_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_boy_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_boy_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_boy_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_boy_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_boy_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_boy_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_boy_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_boy_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_boy_001_prm.nutexb"
+		]
+Inkling c02 (Yellow skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_c02_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c02_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_003_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_003_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c02_003_emi.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c02_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c02_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c02_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c02_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c02_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c02_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c02_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c02_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c02_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c02_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c02_001_prm.nutexb"
+		]
+Inkling c03 (Green skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_c03_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c03_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_003_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_003_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_004_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_004_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c03_004_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c03_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c03_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c03_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c03_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c03_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c03_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c03_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c03_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c03_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c03_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c03_001_prm.nutexb"
+		]
+Inkling c04 (Pink skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_c04_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_003_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_004_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_004_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c04_004_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c04_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c04_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c04_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c04_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c04_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c04_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c04_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c04_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c04_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c04_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c04_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c04_001_prm.nutexb"
+		]
+Inkling c05 (Cyan skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_c05_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c05_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_003_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c05_003_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c05_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c05_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c05_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c05_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c05_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c05_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c05_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c05_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c05_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c05_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c05_001_prm.nutexb"
+		]
+Inkling c06 (Purple skin)
+	Over any other
+		"fighter/inkling/c00": [	
+			"fighter/inkling/model/body/c00/alp_inkling_c06_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c06_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_003_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c06_003_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c06_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c06_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c06_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c06_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c06_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c06_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c06_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c06_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c06_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c06_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c06_001_prm.nutexb"
+		]
+Inkling c07 (Indigo skin)
+	Over any other
+		"fighter/inkling/c00": [
+			"fighter/inkling/model/body/c00/alp_inkling_c07_001_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_002_col.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/alp_inkling_c07_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_001_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_001_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_002_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_002_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_002_prm.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_003_col.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_003_nor.nutexb",
+			"fighter/inkling/model/body/c00/def_inkling_c07_003_prm.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c07_d_col.nutexb",
+			"fighter/inkling/model/body/c00/deyes_eye_inkling_c07_wd_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c07_b_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c07_g_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c07_w_col.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c07_w_nor.nutexb",
+			"fighter/inkling/model/body/c00/eye_inkling_c07_w_prm.nutexb",
+			"fighter/inkling/model/body/c00/leyes_eye_inkling_c07_l_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c07_001_col.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c07_001_nor.nutexb",
+			"fighter/inkling/model/body/c00/skin_inkling_c07_001_prm.nutexb"
+		]
+Isabelle Even Slot (Summer skin)
+	Over Odd
+		"fighter/shizue/c01": [
+			"fighter/shizue/model/body/c01/def_shizue_001_col.nutexb",
+			"fighter/shizue/model/body/c01/def_shizue_001_nor.nutexb",
+			"fighter/shizue/model/body/c01/def_shizue_001_prm.nutexb"
+		]
+Isabelle Odd Slot (Winter skin)
+	Over Even
+		"fighter/shizue/c00": [
+			"fighter/shizue/model/body/c00/def_shizue_w_001_col.nutexb",
+			"fighter/shizue/model/body/c00/def_shizue_w_001_nor.nutexb",
+			"fighter/shizue/model/body/c00/def_shizue_w_001_prm.nutexb"
+		]
+Jigglypuff c01 (Flower skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/alp_purin_c01_001_col.nutexb",
+			"fighter/purin/model/body/c00/alp_purin_c01_001_nor.nutexb",
+			"fighter/purin/model/body/c00/alp_purin_c01_001_prm.nutexb"
+		]
+Jigglypuff c02 (Leaf Hat skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c02_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c02_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c02_001_prm.nutexb"
+		]
+Jigglypuff c03 (Strawhat skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c03_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c03_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c03_001_prm.nutexb"
+		]
+Jigglypuff c04 (Nightcap skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c04_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c04_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c04_001_prm.nutexb"
+		]
+Jigglypuff c05 (Bow skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c05_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c05_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c05_001_prm.nutexb"
+		]
+Jigglypuff c06 (Nurse skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c06_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c06_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c06_001_prm.nutexb"
+		]
+Jigglypuff c07 (Serena skin)
+	Over any other
+		"fighter/purin/c00": [
+			"fighter/purin/model/body/c00/def_purin_c07_001_col.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c07_001_nor.nutexb",
+			"fighter/purin/model/body/c00/def_purin_c07_001_prm.nutexb"
+		]
+Joker c00-c05 (Phantom Thieves skin)
+	Over c06 or c07
+		"fighter/jack/c06": [
+			"fighter/jack/model/body/c06/def_jack_001_col.nutexb",
+			"fighter/jack/model/body/c06/def_jack_001_nor.nutexb",
+			"fighter/jack/model/body/c06/def_jack_001_prm.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002_col.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002_nor.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002_prm.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002b_col.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002b_nor.nutexb",
+			"fighter/jack/model/body/c06/def_jack_002b_prm.nutexb"
+		]
+Joker c06 and c07 (School uniform skin)
+	Over c00,c01,c02,c03,c04, or c05
+		"fighter/jack/c00": [
+			"fighter/jack/model/body/c00/alp_jack_c06_003_col.nutexb",
+			"fighter/jack/model/body/c00/alp_jack_c06_003_nor.nutexb",
+			"fighter/jack/model/body/c00/alp_jack_c06_003_prm.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_001_col.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_001_nor.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_001_prm.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_002_col.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_002_nor.nutexb",
+			"fighter/jack/model/body/c00/def_jack_c06_002_prm.nutexb"
+		]
+Kazuya Even Slot (Topless skin)
+	Over Odd
+		"fighter/demon/c01": [
+			"fighter/demon/model/body/c01/def_demon_001_col.nutexb",
+			"fighter/demon/model/body/c01/def_demon_001_nor.nutexb",
+			"fighter/demon/model/body/c01/def_demon_001_prm.nutexb",
+			"fighter/demon/model/body/c01/eye_brave4_w_nor.nutexb",
+			"fighter/demon/model/body/c01/eye_brave4_w_prm.nutexb",
+			"fighter/demon/model/body/c01/skin_demon_001b_col.nutexb",
+			"fighter/demon/model/body/c01/skin_demon_001b_nor.nutexb",
+			"fighter/demon/model/body/c01/skin_demon_001b_prm.nutexb"
+		]
+Kazuya Odd Slot (Trenchcoat suit skin)
+	Over Even
+		"fighter/demon/c00": [
+			"fighter/demon/model/body/c00/def_demon_coat_001_col.nutexb",
+			"fighter/demon/model/body/c00/def_demon_coat_001_nor.nutexb",
+			"fighter/demon/model/body/c00/def_demon_coat_001_prm.nutexb",
+			"fighter/demon/model/body/c00/def_demon_coat_002_col.nutexb",
+			"fighter/demon/model/body/c00/def_demon_coat_002_nor.nutexb",
+			"fighter/demon/model/body/c00/def_demon_coat_002_prm.nutexb",
+			"fighter/demon/model/body/c00/skin_demon_coat_001b_col.nutexb",
+			"fighter/demon/model/body/c00/skin_demon_coat_001b_nor.nutexb",
+			"fighter/demon/model/body/c00/skin_demon_coat_001b_prm.nutexb"
+		]
+Little Mac c00-c05 (Not wireframe skin)
+	Over c06 or c07
+		"fighter/littlemac/c06": [
+			"fighter/littlemac/model/body/c06/alp_littlemac_001_col.nutexb",
+			"fighter/littlemac/model/body/c06/alp_littlemac_001_nor.nutexb",
+			"fighter/littlemac/model/body/c06/alp_littlemac_001_prm.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_001_col.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_001_nor.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_001_prm.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_001_col.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_001_nor.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_002_col.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_002_nor.nutexb",
+			"fighter/littlemac/model/body/c06/def_littlemac_002_prm.nutexb",
+			"fighter/littlemac/model/body/c06/deyes_eye_littlemac_d_col.nutexb",
+			"fighter/littlemac/model/body/c06/deyes_eye_littlemac_wd_col.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_g_col.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_lb_col.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_rb_col.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_w_col.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_w_nor.nutexb",
+			"fighter/littlemac/model/body/c06/eye_littlemac_w_prm.nutexb",
+			"fighter/littlemac/model/body/c06/leyes_eye_littlemac_l_col.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_001_col.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_001_nor.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_001_prm.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_002_col.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_002_nor.nutexb",
+			"fighter/littlemac/model/body/c06/skin_damage_002_prm.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_001_col.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_001_nor.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_001_prm.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_002_col.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_002_nor.nutexb",
+			"fighter/littlemac/model/body/c06/skin_littlemac_002_prm.nutexb"
+		]
+Little Mac c06 (Wireframe skin)
+	Over c00,c01,c02,c03,c04 or c05
+		"fighter/littlemac/c00": [
+			"fighter/littlemac/model/body/c00/alp_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c00/alp_littlemacw_001_nor.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_nor.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_prm.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_nor.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_002_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_002_nor.nutexb",
+			"fighter/littlemac/model/body/c00/skin_littlemacw_001_col.nutexb"
+		]
+	Over c07
+		"fighter/littlemac/c07": [
+			"fighter/littlemac/model/body/c07/alp_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c07/alp_littlemacw_001_nor.nutexb"
+		]
+Little Mac c07 (Wireframe Hooded Sweatshirt skin)
+	Over c00,c01,c02,c03,c04 or c05
+		"fighter/littlemac/c00": [
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_nor.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_prm.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_001_nor.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_002_col.nutexb",
+			"fighter/littlemac/model/body/c00/def_littlemacw_002_nor.nutexb",
+			"fighter/littlemac/model/body/c00/skin_littlemacw_001_col.nutexb"
+		]
+Mario c00-c05 (Overalls skin)
+	Over c07
+		"fighter/mario/c07": [
+			"fighter/mario/model/body/c06/def_mario_001_col.nutexb",
+			"fighter/mario/model/body/c06/def_mario_001_nor.nutexb",
+			"fighter/mario/model/body/c06/def_mario_001_prm.nutexb"
+		]
+Mario c06 (Builder skin)
+	Over any other
+		"fighter/mario/c00": [
+			"fighter/mario/model/body/c00/def_mario_b_001_col.nutexb",
+			"fighter/mario/model/body/c00/def_mario_b_001_nor.nutexb",
+			"fighter/mario/model/body/c00/def_mario_b_001_prm.nutexb"
+		]
+Mario c07 (Wedding skin)
+	Over any other
+		"fighter/mario/c00": [
+			"fighter/mario/model/body/c00/def_mariot_000_col.nutexb",
+			"fighter/mario/model/body/c00/def_mariot_000_nor.nutexb",
+			"fighter/mario/model/body/c00/def_mariot_000_prm.nutexb"
+		]
+Olimar c00-c03 (Olimar skin)
+	Over c04,c05,c06, or c07
+		"fighter/pikmin/c04": [
+			"fighter/pikmin/model/body/c04/def_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c04/def_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c04/def_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c04/deyes_eye_pikmin_001_d_col.nutexb",
+			"fighter/pikmin/model/body/c04/deyes_eye_pikmin_d_col.nutexb",
+			"fighter/pikmin/model/body/c04/deyes_eye_pikmin_wd_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_001_b_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_001_b_nor.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_001_b_prm.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_001_g_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_b_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_g_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_w_col.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_w_nor.nutexb",
+			"fighter/pikmin/model/body/c04/eye_pikmin_w_prm.nutexb",
+			"fighter/pikmin/model/body/c04/leyes_eye_pikmin_001_l_col.nutexb",
+			"fighter/pikmin/model/body/c04/leyes_eye_pikmin_l_col.nutexb",
+			"fighter/pikmin/model/body/c04/metal_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c04/metal_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c04/metal_pikmin_001_prm.nutexb",
+			"fighter/pikmin/model/body/c04/skin_pikmin_001_col.nutexb",
+			"fighter/pikmin/model/body/c04/skin_pikmin_001_nor.nutexb",
+			"fighter/pikmin/model/body/c04/skin_pikmin_001_prm.nutexb"
+		]
+Olimar c04-c07 (Alph skin)
+	Over c00,c01,c02, or c03
+		"fighter/pikmin/c00": [
+			"fighter/pikmin/model/body/c00/alp_pikmin_002_prm.nutexb",
+			"fighter/pikmin/model/body/c00/def_pikmin_c04_001_col.nutexb",
+			"fighter/pikmin/model/body/c00/def_pikmin_c04_001_nor.nutexb",
+			"fighter/pikmin/model/body/c00/def_pikmin_c04_001_prm.nutexb",
+			"fighter/pikmin/model/body/c00/deyes_eye_pikmin_c04_d_col.nutexb",
+			"fighter/pikmin/model/body/c00/eye_pikmin_c04_b_col.nutexb",
+			"fighter/pikmin/model/body/c00/eye_pikmin_c04_b_nor.nutexb",
+			"fighter/pikmin/model/body/c00/eye_pikmin_c04_b_prm.nutexb",
+			"fighter/pikmin/model/body/c00/eye_pikmin_c04_g_col.nutexb",
+			"fighter/pikmin/model/body/c00/leyes_eye_pikmin_c04_l_col.nutexb",
+			"fighter/pikmin/model/body/c00/metal_pikmin_c04_001_col.nutexb",
+			"fighter/pikmin/model/body/c00/metal_pikmin_c04_001_nor.nutexb",
+			"fighter/pikmin/model/body/c00/metal_pikmin_c04_001_prm.nutexb",
+			"fighter/pikmin/model/body/c00/skin_pikmin_c04_001_col.nutexb",
+			"fighter/pikmin/model/body/c00/skin_pikmin_c04_001_nor.nutexb",
+			"fighter/pikmin/model/body/c00/skin_pikmin_c04_001_prm.nutexb"
+		]
+Pichu c01 (Goggles skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/def_pikachuparts_c05_nor.nutexb",
+			"fighter/pichu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pichu/model/body/c00/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pichu/model/body/c00/pichu_parts_c01_col.nutexb",
+			"fighter/pichu/model/body/c00/pichu_parts_c01_nor.nutexb",
+			"fighter/pichu/model/body/c00/pichu_parts_c01_prm.nutexb"
+		]
+Pichu c02 (Red skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/pichu_parts_c02_col.nutexb",
+			"fighter/pichu/model/body/c00/pichu_parts_c02_nor.nutexb",
+			"fighter/pichu/model/body/c00/pichu_parts_c02_prm.nutexb"
+		]
+Pichu c03 (Team Skull skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/def_part_003_col.nutexb",
+			"fighter/pichu/model/body/c00/def_part_003_nor.nutexb",
+			"fighter/pichu/model/body/c00/def_part_003_prm.nutexb"
+		]
+Pichu c04 (Team Aqua skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/def_pichu_004_col.nutexb",
+			"fighter/pichu/model/body/c00/def_pichu_004_nor.nutexb",
+			"fighter/pichu/model/body/c00/def_pichu_004_prm.nutexb"
+		]
+Pichu c05 (Spiky-eared skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/alp_pichu_parts_06_col.nutexb",
+			"fighter/pichu/model/body/c00/alp_pichu_parts_06_nor.nutexb",
+			"fighter/pichu/model/body/c00/alp_pichu_parts_06_prm.nutexb"
+		]
+Pichu c06 (Flower skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/def_parts_006_col.nutexb",
+			"fighter/pichu/model/body/c00/def_parts_006_nor.nutexb",
+			"fighter/pichu/model/body/c00/def_parts_006_prm.nutexb"
+		]
+Pichu c07 (Focus Band skin)
+	Over any other
+		"fighter/pichu/c00": [
+			"fighter/pichu/model/body/c00/def_parts_007_col.nutexb",
+			"fighter/pichu/model/body/c00/def_parts_007_nor.nutexb",
+			"fighter/pichu/model/body/c00/def_parts_007_prm.nutexb"
+		]
+Pikachu c00 (Default skin)
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c01 (Red's cap skin)
+	Over c00 or c06
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_001_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_001_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_001_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_prm.nutexb"
+		]
+	Over c02,c03,c04, or c05
+		"fighter/pikachu/c02": [
+			"fighter/pikachu/model/body/c02/def_pikachuparts_001_col.nutexb",
+			"fighter/pikachu/model/body/c02/def_pikachuparts_001_nor.nutexb",
+			"fighter/pikachu/model/body/c02/def_pikachuparts_001_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_001_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c02 (Brendan's headband skin)
+	Over c00 or c06
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_002_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_002_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_002_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_prm.nutexb"
+		]
+	Over c01,c03,c04, or c05
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/model/body/c01/def_pikachuparts_002_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_002_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_002_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_002_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_002_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_002_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c03 (Ethan's cap skin)
+	Over c00 or c06
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_003_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_003_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_003_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_prm.nutexb"
+		]
+	Over c01,c02,c04, or c05
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/model/body/c01/def_pikachuparts_003_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_003_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_003_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_003_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_003_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_003_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c04 (Party hat skin)
+	Over c00 or c06
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_004_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_004_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_004_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_prm.nutexb"
+		]
+	Over c01,c02,c03, or c05
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/model/body/c01/def_pikachuparts_004_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_004_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_004_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_004_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_004_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_004_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c05 (Calem's cap skin)
+	Over c00 or c06
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_g_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_g_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_g_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_005_prm.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_shadow_prm.nutexb"
+		]
+	Over c01,c02,c03, or c04
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_g_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_g_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_g_prm.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_005_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_g_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_g_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_g_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_005_prm.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_shadow_prm.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_col.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_nor.nutexb",
+			"fighter/pikachu/model/body/c07/skin_pikachu_001_prm.nutexb"
+		]
+Pikachu c06 (Selene's cap skin)
+	Over c00
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/def_pikachuparts_006_col.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_006_nor.nutexb",
+			"fighter/pikachu/model/body/c00/def_pikachuparts_006_prm.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_col.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_nor.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_prm.nutexb"
+		]
+	Over c01,c02,c03,c04, or c05
+		"fighter/pikachu/c01": [
+			"fighter/pikachu/model/body/c01/def_pikachuparts_006_col.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_006_nor.nutexb",
+			"fighter/pikachu/model/body/c01/def_pikachuparts_006_prm.nutexb",
+			"fighter/pikachu/model/body/c01/skin_pikachu_002_col.nutexb",
+			"fighter/pikachu/model/body/c01/skin_pikachu_002_nor.nutexb",
+			"fighter/pikachu/model/body/c01/skin_pikachu_002_prm.nutexb"
+		]
+	Over c07
+		"fighter/pikachu/c07": [
+			"fighter/pikachu/model/body/c07/def_pikachuparts_006_col.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_006_nor.nutexb",
+			"fighter/pikachu/model/body/c07/def_pikachuparts_006_prm.nutexb"
+		]	
+Pikachu c07 (Libre skin)
+	Over c00,c01,c02,c03,c04, or c05
+		"fighter/pikachu/c00": [
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_col.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_nor.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_002_prm.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_003_col.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_003_nor.nutexb",
+			"fighter/pikachu/model/body/c00/skin_pikachu_003_prm.nutexb"
+		]
+	Over c06
+		"fighter/pikachu/c06": [
+			"fighter/pikachu/model/body/c06/skin_pikachu_003_col.nutexb",
+			"fighter/pikachu/model/body/c06/skin_pikachu_003_nor.nutexb",
+			"fighter/pikachu/model/body/c06/skin_pikachu_003_prm.nutexb"
+		]
+Piranha Plant Even (Pot skin)
+	Over Odd
+		"fighter/packun/c01": [
+			"fighter/packun/model/body/c01/metal_packun_001_col.nutexb",
+			"fighter/packun/model/body/c01/metal_packun_001_nor.nutexb",
+			"fighter/packun/model/body/c01/metal_packun_001_prm.nutexb",
+			"fighter/packun/model/body/c01/metal_packun_003_col.nutexb",
+			"fighter/packun/model/body/c01/metal_packun_003_prm.nutexb"
+		]
+Piranha Plant Odd (Pipe skin)
+	Over Even
+		"fighter/packun/c00": [
+			"fighter/packun/model/body/c00/metal_packun_002_col.nutexb",
+			"fighter/packun/model/body/c00/metal_packun_002_nor.nutexb",
+			"fighter/packun/model/body/c00/metal_packun_002_prm.nutexb"
+		]		
+Pokemon Trainer Even Slot (Male skin)
+	Over Odd
+		"fighter/ptrainer/c01": [
+			"fighter/ptrainer/model/ptrainer/c01/alp_ptrainer_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/alp_ptrainer_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/alp_ptrainer_001_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/def_ptrainer_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/def_ptrainer_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/def_ptrainer_001_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/eye_ptrainer_b_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/eye_ptrainer_w_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/eye_ptrainer_w_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/eye_ptrainer_w_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/skin_ptrainer_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/skin_ptrainer_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c01/skin_ptrainer_001_prm.nutexb"
+		]
+Pokemon Trainer Odd Slot (Female skin)
+	Over Even
+		"fighter/ptrainer/c00": [
+			"fighter/ptrainer/model/ptrainer/c00/alp_ptrainer_female_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/alp_ptrainer_female_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/alp_ptrainer_female_001_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/def_ptrainer_female_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/def_ptrainer_female_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/def_ptrainer_female_001_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/eye_ptrainer_female_b_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/eye_ptrainer_frmale_w_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/eye_ptrainer_frmale_w_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/eye_ptrainer_frmale_w_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/metal_ptrainer_female_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/metal_ptrainer_female_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/metal_ptrainer_female_001_prm.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/skin_ptrainer_female_001_col.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/skin_ptrainer_female_001_nor.nutexb",
+			"fighter/ptrainer/model/ptrainer/c00/skin_ptrainer_female_001_prm.nutexb"
+		]
+Ridley c00,c02-c06 (Ridley skin)
+	Over c01 or c07
+		"fighter/ridley/c01": [
+			"fighter/ridley/model/body/c01/skin_ridley_001_col.nutexb",
+			"fighter/ridley/model/body/c01/skin_ridley_001_nor.nutexb",
+			"fighter/ridley/model/body/c01/skin_ridley_001_prm.nutexb"
+		]
+Ridley c01 and c07 (Meta/Mecha Ridley skin)
+	Over c00,c02,c03,c04,c05, or c06
+		"fighter/ridley/c00": [
+			"fighter/ridley/model/body/c00/body_metaridley_001_col.nutexb",
+			"fighter/ridley/model/body/c00/body_metaridley_001_nor.nutexb",
+			"fighter/ridley/model/body/c00/body_metaridley_001_prm.nutexb",
+			"fighter/ridley/model/body/c00/metal_metaridley_001_col.nutexb",
+			"fighter/ridley/model/body/c00/metal_metaridley_001_emi.nutexb",
+			"fighter/ridley/model/body/c00/metal_metaridley_001_nor.nutexb",
+			"fighter/ridley/model/body/c00/metal_metaridley_001_prm.nutexb"
+		]
+Robin Even Slot (Male skin)
+	Over Odd
+		"fighter/reflet/c01": [
+			"fighter/reflet/model/body/c01/alp_reflet_001_col.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_001_nor.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_001_prm.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_002_col.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_002_nor.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_002_prm.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_003_col.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_003_nor.nutexb",
+			"fighter/reflet/model/body/c01/alp_reflet_003_prm.nutexb",
+			"fighter/reflet/model/body/c01/deyes_eye_pitb_d_001_col.nutexb",
+			"fighter/reflet/model/body/c01/deyes_eye_pitb_wd_001_col.nutexb",
+			"fighter/reflet/model/body/c01/eye_reflet_b_001_col.nutexb",
+			"fighter/reflet/model/body/c01/eye_reflet_w_001_col.nutexb",
+			"fighter/reflet/model/body/c01/eye_reflet_w_001_nor.nutexb",
+			"fighter/reflet/model/body/c01/eye_reflet_w_001_prm.nutexb",
+			"fighter/reflet/model/body/c01/leyes_eye_pitb_l_001_col.nutexb",
+			"fighter/reflet/model/body/c01/skin_reflet_001_col.nutexb",
+			"fighter/reflet/model/body/c01/skin_reflet_001_nor.nutexb",
+			"fighter/reflet/model/body/c01/skin_reflet_001_prm.nutexb"
+		]
+Robin Odd Slot (Female skin)
+	Over Even
+		"fighter/reflet/c00": [
+			"fighter/reflet/model/body/c00/alp_reflet_female_001_col.nutexb",
+			"fighter/reflet/model/body/c00/alp_reflet_female_001_nor.nutexb",
+			"fighter/reflet/model/body/c00/alp_reflet_female_001_prm.nutexb",
+			"fighter/reflet/model/body/c00/alp_reflet_female_002_col.nutexb",
+			"fighter/reflet/model/body/c00/alp_reflet_female_002_nor.nutexb",
+			"fighter/reflet/model/body/c00/alp_reflet_female_002_prm.nutexb",
+			"fighter/reflet/model/body/c00/deyes_eye_reflet_d_001_col.nutexb",
+			"fighter/reflet/model/body/c00/deyes_eye_reflet_wd_001_col.nutexb",
+			"fighter/reflet/model/body/c00/eye_reflet_female_b_001_col.nutexb",
+			"fighter/reflet/model/body/c00/eye_reflet_female_w_001_col.nutexb",
+			"fighter/reflet/model/body/c00/eye_reflet_female_w_001_nor.nutexb",
+			"fighter/reflet/model/body/c00/eye_reflet_female_w_001_prm.nutexb",
+			"fighter/reflet/model/body/c00/leyes_eye_reflet_l_001_col.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_001_col.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_001_nor.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_001_prm.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_hot_001_col.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_hot_001_nor.nutexb",
+			"fighter/reflet/model/body/c00/skin_reflet_female_hot_001_prm.nutexb"
+		]
+Sephiroth c00-c05 (Advent Children skin)
+	Over c06 or c07
+		"fighter/edge/c06": [
+			"fighter/edge/model/body/c06/def_edge_001_col.nutexb",
+			"fighter/edge/model/body/c06/def_edge_001_nor.nutexb",
+			"fighter/edge/model/body/c06/def_edge_001_prm.nutexb",
+			"fighter/edge/model/body/c06/def_edge_003_col.nutexb",
+			"fighter/edge/model/body/c06/def_edge_003_nor.nutexb",
+			"fighter/edge/model/body/c06/def_edge_003_prm.nutexb",
+			"fighter/edge/model/body/c06/skin_edge_001b_col.nutexb",
+			"fighter/edge/model/body/c06/skin_edge_001b_nor.nutexb",
+			"fighter/edge/model/body/c06/skin_edge_001b_prm.nutexb"
+		]
+Sephiroth c06 and c07 (Coatless skin)
+	Over c00,c01,c02,c03,c04, or c05
+		"fighter/edge/c00": [
+			"fighter/edge/model/body/c00/def_edge_004_col.nutexb",
+			"fighter/edge/model/body/c00/def_edge_004_nor.nutexb",
+			"fighter/edge/model/body/c00/def_edge_004_prm.nutexb",
+			"fighter/edge/model/body/c00/skin_edge_002_col.nutexb",
+			"fighter/edge/model/body/c00/skin_edge_002_nor.nutexb",
+			"fighter/edge/model/body/c00/skin_edge_002_prm.nutexb"
+		]
+Shulk c00-c06 (Default Outfit skin)
+	Over c07
+		"fighter/shulk/c07": [
+			"fighter/shulk/model/body/c07/alp_shulk_003_col.nutexb",
+			"fighter/shulk/model/body/c07/alp_shulk_003_nor.nutexb",
+			"fighter/shulk/model/body/c07/alp_shulk_003_prm.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_001_col.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_001_nor.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_001_prm.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_002_col.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_002_nor.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_002_prm.nutexb"
+		]
+Shulk c07 (Swimsuit skin)
+	Over c00,c01,c02,c03,c04,c05, or c06
+		"fighter/shulk/c00": [
+			"fighter/shulk/model/body/c07/def_shulk_c07_001_col.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_c07_001_nor.nutexb",
+			"fighter/shulk/model/body/c07/def_shulk_c07_001_prm.nutexb",
+			"fighter/shulk/model/body/c07/skin_shulk_c07_002_col.nutexb",
+			"fighter/shulk/model/body/c07/skin_shulk_c07_002_nor.nutexb",
+			"fighter/shulk/model/body/c07/skin_shulk_c07_002_prm.nutexb"
+		]
+Snake c00 and c01 (Solid color skin)
+	Over c02,c03,c04,c05,c06, or c07
+		"fighter/snake/c02": [
+			"fighter/snake/model/body/c02/def_snake_001_col.nutexb",
+			"fighter/snake/model/body/c02/def_snake_001_nor.nutexb",
+			"fighter/snake/model/body/c02/def_snake_001_prm.nutexb"
+		]
+Snake c02-c07 (Pattern skin)
+	Over c00 or c01
+		"fighter/snake/c00": [
+			"fighter/snake/model/body/c00/def_snake_001_c02_col.nutexb",
+			"fighter/snake/model/body/c00/def_snake_001_c02_nor.nutexb",
+			"fighter/snake/model/body/c00/def_snake_001_c02_prm.nutexb"
+		]
+Sonic c01 (Purple skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_002_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_002_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_002_prm.nutexb"
+		]
+Sonic c02 (Cyan skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_003_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_003_emi.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_003_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_003_prm.nutexb"
+		]
+Sonic c03 (White skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_004_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_004_emi.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_004_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_004_prm.nutexb"
+		]
+Sonic c04 (Black skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_005_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_005_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_005_prm.nutexb"
+		]
+Sonic c05 (Yellow skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_006_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_006_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_006_prm.nutexb"
+		]
+Sonic c06 (Orange skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_008_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_008_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_008_prm.nutexb"
+		]
+Sonic c07 (Green skin)
+	Over any other
+		"fighter/sonic/c00": [
+			"fighter/sonic/model/body/c00/def_sonic_007_col.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_007_nor.nutexb",
+			"fighter/sonic/model/body/c00/def_sonic_007_prm.nutexb"
+		]
+Sora c00 (KH1 skin)
+	over c01,c02,c05, or c06
+		"fighter/trail/c01": [
+			"fighter/trail/model/body/c01/def_trail_001_col.nutexb",
+			"fighter/trail/model/body/c01/def_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c01/def_trail_001_prm.nutexb"			
+		]
+	over c03 or c07
+		"fighter/trail/c03": [
+			"fighter/trail/model/body/c03/def_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/def_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/def_trail_001_prm.nutexb"
+			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+		]
+	over c04
+		"fighter/trail/c04": [
+			"fighter/trail/model/body/c04/alp_trail_001_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_r_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_g_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_nor.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb"			
+	]
+Sora c01 (KH2 skin)
+	over c00,c02,c05, or c06
+		"fighter/trail/c00": [
+			"fighter/trail/model/body/c00/def_trail2_001_col.nutexb",
+			"fighter/trail/model/body/c00/def_trail2_001_nor.nutexb",
+			"fighter/trail/model/body/c00/def_trail2_001_prm.nutexb"			
+		]
+	over c03 or c07
+		"fighter/trail/c03": [
+			"fighter/trail/model/body/c03/def_trail2_001_col.nutexb",
+			"fighter/trail/model/body/c03/def_trail2_001_nor.nutexb",
+			"fighter/trail/model/body/c03/def_trail2_001_prm.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+		]
+	over c04
+		"fighter/trail/c04": [
+			"fighter/trail/model/body/c04/alp_trail_001_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_r_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_g_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_nor.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb",
+			"fighter/trail/model/body/c04/def_trail2_001_col.nutexb",
+			"fighter/trail/model/body/c04/def_trail2_001_nor.nutexb",
+			"fighter/trail/model/body/c04/def_trail2_001_prm.nutexb"			
+		]
+Sora c02 (KH3D skin)
+	over c00,c01,c05, or c06
+		"fighter/trail/c00": [
+			"fighter/trail/model/body/c00/def_trail3d_001_col.nutexb",
+			"fighter/trail/model/body/c00/def_trail3d_001_nor.nutexb",
+			"fighter/trail/model/body/c00/def_trail3d_001_prm.nutexb"			
+		]
+	over c03 or c07
+		"fighter/trail/c03": [
+			"fighter/trail/model/body/c03/def_trail3d_001_col.nutexb",
+			"fighter/trail/model/body/c03/def_trail3d_001_nor.nutexb",
+			"fighter/trail/model/body/c03/def_trail3d_001_prm.nutexb"
+			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+		]
+	over c04
+		"fighter/trail/c04": [
+			"fighter/trail/model/body/c04/alp_trail_001_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_r_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_g_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_nor.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb",
+			"fighter/trail/model/body/c04/def_trail3d_001_col.nutexb",
+			"fighter/trail/model/body/c04/def_trail3d_001_nor.nutexb",
+			"fighter/trail/model/body/c04/def_trail3d_001_prm.nutexb"			
+		]
+Sora c03 (KH3 skin)
+	over c00,c01,c02,c05,c06, or c07
+		"fighter/trail/c00": [
+			"fighter/trail/model/body/c00/def_trail3_001_col.nutexb",
+			"fighter/trail/model/body/c00/def_trail3_001_nor.nutexb",
+			"fighter/trail/model/body/c00/def_trail3_001_prm.nutexb",
+			"fighter/trail/model/body/c00/skin_trail3_001_col.nutexb",
+			"fighter/trail/model/body/c00/skin_trail3_001_nor.nutexb",
+			"fighter/trail/model/body/c00/skin_trail3_001_prm.nutexb"			
+		]
+	over c04
+		"fighter/trail/c04": [
+			"fighter/trail/model/body/c04/alp_trail_001_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/alp_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_b_r_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_g_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_col.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_nor.nutexb",
+			"fighter/trail/model/body/c04/eye_trail_w_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_003_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb",
+			"fighter/trail/model/body/c04/def_trail3_001_col.nutexb",
+			"fighter/trail/model/body/c04/def_trail3_001_nor.nutexb",
+			"fighter/trail/model/body/c04/def_trail3_001_prm.nutexb",
+			"fighter/trail/model/body/c04/skin_trail3_001_col.nutexb",
+			"fighter/trail/model/body/c04/skin_trail3_001_nor.nutexb",
+			"fighter/trail/model/body/c04/skin_trail3_001_prm.nutexb"			
+		]
+Sora c04 (Timeless River skin)
+	over c00
+		"fighter/trail/c00": [
+			"fighter/trail/model/body/c00/alp_trail_002_col.nutexb",
+			"fighter/trail/model/body/c00/alp_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c00/alp_trail_002_prm.nutexb",
+			"fighter/trail/model/body/c00/eye_trail_b_c04_col.nutexb",
+			"fighter/trail/model/body/c00/eye_trail_b_c04_r_col.nutexb",
+			"fighter/trail/model/body/c00/eye_trail_g_c04_col.nutexb",
+			"fighter/trail/model/body/c00/eye_trail_g_c04_r_col.nutexb",
+			"fighter/trail/model/body/c00/skin_trail_002_col.nutexb",
+			"fighter/trail/model/body/c00/skin_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c00/skin_trail_002_prm.nutexb"			
+		]
+	over c01,c02,c05, or c06
+		"fighter/trail/c01": [
+			"fighter/trail/model/body/c01/def_trail_001_col.nutexb",
+			"fighter/trail/model/body/c01/def_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c01/def_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c01/alp_trail_002_col.nutexb",
+			"fighter/trail/model/body/c01/alp_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c01/alp_trail_002_prm.nutexb",
+			"fighter/trail/model/body/c01/eye_trail_b_c04_col.nutexb",
+			"fighter/trail/model/body/c01/eye_trail_b_c04_r_col.nutexb",
+			"fighter/trail/model/body/c01/eye_trail_g_c04_col.nutexb",
+			"fighter/trail/model/body/c01/eye_trail_g_c04_r_col.nutexb",
+			"fighter/trail/model/body/c01/skin_trail_002_col.nutexb",
+			"fighter/trail/model/body/c01/skin_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c01/skin_trail_002_prm.nutexb"			
+		]
+	over c03 or c07
+		"fighter/trail/c03": [
+			"fighter/trail/model/body/c03/def_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/def_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/def_trail_001_prm.nutexb",
+			"fighter/trail/model/body/c03/alp_trail_002_col.nutexb",
+			"fighter/trail/model/body/c03/alp_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c03/alp_trail_002_prm.nutexb",
+			"fighter/trail/model/body/c03/eye_trail_b_c04_col.nutexb",
+			"fighter/trail/model/body/c03/eye_trail_b_c04_r_col.nutexb",
+			"fighter/trail/model/body/c03/eye_trail_g_c04_col.nutexb",
+			"fighter/trail/model/body/c03/eye_trail_g_c04_r_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"
+			"fighter/trail/model/body/c03/skin_trail_002_col.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_002_nor.nutexb",
+			"fighter/trail/model/body/c03/skin_trail_002_prm.nutexb"			
+		]
+Villager Even Slot (Male skin)
+	Over Odd
+		"fighter/murabito/c01": [
+			"fighter/murabito/model/body/c01/def_murabito_001_col.nutexb",
+			"fighter/murabito/model/body/c01/def_murabito_001_nor.nutexb",
+			"fighter/murabito/model/body/c01/def_murabito_001_prm.nutexb"
+		]
+Villager Odd Slot (Female skin)
+	Over Even	
+		"fighter/murabito/c00": [
+			"fighter/murabito/model/body/c00/def_murabito_c01_001_col.nutexb",
+			"fighter/murabito/model/body/c00/def_murabito_c01_001_nor.nutexb",
+			"fighter/murabito/model/body/c00/def_murabito_c01_001_prm.nutexb"
+		]
+Wario Even Slot (Biker skin)
+	Over Odd
+		"fighter/wario/c01": [
+			"fighter/wario/model/body/c01/def_wario_001_col.nutexb",
+			"fighter/wario/model/body/c01/def_wario_001_nor.nutexb",
+			"fighter/wario/model/body/c01/def_wario_001_prm.nutexb",
+			"fighter/wario/model/body/c01/skin_wario_001_col.nutexb",
+			"fighter/wario/model/body/c01/skin_wario_001_nor.nutexb",
+			"fighter/wario/model/body/c01/skin_wario_001_prm.nutexb"
+		]
+Wario Odd Slot (Classic skin)
+	Over Even
+		"fighter/wario/c00": [
+			"fighter/wario/model/body/c00/def_wariob_001_col.nutexb",
+			"fighter/wario/model/body/c00/def_wariob_001_nor.nutexb",
+			"fighter/wario/model/body/c00/def_wariob_001_prm.nutexb",
+			"fighter/wario/model/body/c00/metal_wariob_001_col.nutexb",
+			"fighter/wario/model/body/c00/metal_wariob_001_nor.nutexb",
+			"fighter/wario/model/body/c00/metal_wariob_001_prm.nutexb",
+			"fighter/wario/model/body/c00/skin_wariob_001_col.nutexb",
+			"fighter/wario/model/body/c00/skin_wariob_001_nor.nutexb",
+			"fighter/wario/model/body/c00/skin_wariob_001_prm.nutexb"
+		]
+Wii Fit Trainer Even Slot (Female skin)
+	Over Odd
+		"fighter/wiifit/c01": [
+			"fighter/wiifit/model/body/c01/alp_wiifit_001_col.nutexb",
+			"fighter/wiifit/model/body/c01/alp_wiifit_001_nor.nutexb",
+			"fighter/wiifit/model/body/c01/alp_wiifit_001_prm.nutexb",
+			"fighter/wiifit/model/body/c01/def_wiifit_001_col.nutexb",
+			"fighter/wiifit/model/body/c01/def_wiifit_001_nor.nutexb",
+			"fighter/wiifit/model/body/c01/def_wiifit_001_prm.nutexb",
+			"fighter/wiifit/model/body/c01/deyes_eye_wiifit_d_col.nutexb",
+			"fighter/wiifit/model/body/c01/deyes_eye_wiifit_wd_col.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_e_col.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_e_nor.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_e_prm.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_g_col.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_w_col.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_w_nor.nutexb",
+			"fighter/wiifit/model/body/c01/eye_wiifit_w_prm.nutexb",
+			"fighter/wiifit/model/body/c01/eyel_wiifit_b_col.nutexb",
+			"fighter/wiifit/model/body/c01/eyer_wiifit_b_col.nutexb",
+			"fighter/wiifit/model/body/c01/leyes_eye_wiifit_l_col.nutexb"
+		]
+Wii Fit Trainer Odd Slot (Male skin)
+	Over Even
+		"fighter/wiifit/c00": [
+			"fighter/wiifit/model/body/c00/alp_fitm_001_col.nutexb",
+			"fighter/wiifit/model/body/c00/alp_fitm_001_nor.nutexb",
+			"fighter/wiifit/model/body/c00/alp_fitm_001_prm.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_002_col.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_002_nor.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_002_prm.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_009_ha_001_col.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_009_ha_001_nor.nutexb",
+			"fighter/wiifit/model/body/c00/def_fitm_009_ha_001_prm.nutexb",
+			"fighter/wiifit/model/body/c00/deyes_eye_fitm_d_col.nutexb",
+			"fighter/wiifit/model/body/c00/deyes_eye_fitm_wd_col.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_e_col.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_e_nor.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_e_prm.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_g_col.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_w_col.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_w_nor.nutexb",
+			"fighter/wiifit/model/body/c00/eye_fitm_w_prm.nutexb",
+			"fighter/wiifit/model/body/c00/eyel_fitm_b_col.nutexb",
+			"fighter/wiifit/model/body/c00/eyer_fitm_b_col.nutexb",
+			"fighter/wiifit/model/body/c00/leyes_eye_fitm_l_col.nutexb"
+		]
+Zero Suit Samus c00-c05 (Zero Suit skin)
+	over c06 or c07
+		"fighter/szerosuit/c06": [
+			"fighter/szerosuit/model/body/c06/def_szerosuit_001_col.nutexb",
+			"fighter/szerosuit/model/body/c06/def_szerosuit_001_emi.nutexb",
+			"fighter/szerosuit/model/body/c06/def_szerosuit_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c06/def_szerosuit_001_prm.nutexb"			
+		]
+Zero Suit Samus c06 (Zero Mission Casual skin)
+	over c00,c01,c02,c03,c04, or c05
+		"fighter/szerosuit/c00": [
+			"fighter/szerosuit/model/body/c00/def_szerosuit07_001_col.nutexb",
+			"fighter/szerosuit/model/body/c00/def_szerosuit07_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/def_szerosuit07_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_emi.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit07_001_col.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit07_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit07_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_col.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_prm.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_col.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_prm.nutexb"			
+		]
+	over c07
+		"fighter/szerosuit/c07": [
+			"fighter/szerosuit/model/body/c07/def_szerosuit07_001_col.nutexb",
+			"fighter/szerosuit/model/body/c07/def_szerosuit07_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c07/def_szerosuit07_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c07/metal_szerosuit07_001_col.nutexb",
+			"fighter/szerosuit/model/body/c07/metal_szerosuit07_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c07/metal_szerosuit07_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_col.nutexb",
+			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_nor.nutexb",
+			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_prm.nutexb"			
+		]
+Zero Suit Samus c07 (Metroid Fusion Casual skin)
+	over c00,c01,c02,c03,c04, or c05
+		"fighter/szerosuit/c00": [
+			"fighter/szerosuit/model/body/c00/def_szerosuit06_001_col.nutexb",
+			"fighter/szerosuit/model/body/c00/def_szerosuit06_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/def_szerosuit06_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_col.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_emi.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_col.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_nor.nutexb",
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_prm.nutexb"			
+		]
+	over c06
+		"fighter/szerosuit/c06": [
+			"fighter/szerosuit/model/body/c06/def_szerosuit06_001_col.nutexb",
+			"fighter/szerosuit/model/body/c06/def_szerosuit06_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c06/def_szerosuit06_001_prm.nutexb",
+			"fighter/szerosuit/model/body/c06/metal_szerosuit06_001_col.nutexb",
+			"fighter/szerosuit/model/body/c06/metal_szerosuit06_001_nor.nutexb",
+			"fighter/szerosuit/model/body/c06/metal_szerosuit06_001_prm.nutexb"			
+		]

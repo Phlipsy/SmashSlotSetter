@@ -1,0 +1,187 @@
+1.Mario- {mario}
+
+2.Donkey Kong- {donkey}
+
+3.Link- {link}
+
+4.Samus- {samus}
+
+4E.Dark Samus- {samusd}
+
+5.Yoshi- {yoshi}
+
+6.Kirby- {kirby}
+
+7.Fox- {fox}
+
+8.Pikachu- {pikachu}
+
+9.Luigi- {luigi}
+
+10.Ness- {ness}
+
+11.Captain Falcon- {captain}
+
+12.Jigglypuff- {purin}
+
+13.Peach- {peach}
+
+13E.Daisy- {daisy}
+
+14.Bowser- {koopa}
+
+14B.Giga Bowser- {koopag}
+
+15.Ice Climbers- {}
+
+15B.Popo- {popo}
+
+15B.Nana- {nana}
+
+16.Sheik- {sheik}
+
+17.Zelda- {zelda}
+
+18.Dr.Mario- {mariod}
+
+19.Pichu- {pichu}
+
+20.Falco- {falco}
+
+21.Marth- {marth}
+
+21E.Lucina- {lucina}
+
+22.Young Link- {younglink}
+
+23.Ganondorf- {ganon}
+
+24.Mewtwo- {mewtwo}
+
+25.Roy- {roy}
+
+25E.Chrom- {chrom}
+
+26.Mr.Game & Watch- {gamewatch}
+
+27.Meta Knight- {metaknight}
+
+28.Pit- {pit}
+
+28E.Dark Pit- {pitb}
+
+29.Zero Suit Samus- {szerosuit}
+
+30.Wario- {wario}
+
+31.Snake- {snake}
+
+32.Ike- {ike}
+
+33.Pokemon Trainer- {ptrainer}
+
+33P.Squitle- {pzenigame}
+
+33P.Ivysaur- {pfushigisou}
+
+33P.Charizard- {plizardon}
+
+36.Diddy Kong- {diddy}
+
+37.Lucas- {lucas}
+
+38.Sonic- {sonic}
+
+39.King Dedede- {dedede}
+
+40.Olimar- {pikmin}
+
+41.Lucario- {lucario}
+
+42.R.O.B.- {robot}
+
+43.Toon Link- {toonlink}
+
+44.Wolf- {wolf}
+
+45.Villager- {murabito}
+
+46.Mega Man- {rockman}
+
+47.Wii Fit Trainer- {wiifit}
+
+48.RosaLina & Luma- {rosetta}
+
+49.Little Mac- {littlemac}
+
+50.Greninja- {gekkouga}
+
+51.Mii Brawler- {miifighter}
+
+52.Mii Swordfighter- {miiswordsman}
+
+53.Mii Gunner- {miigunner}
+
+54.Palutena- {palutena}
+
+55.Pac-man- {pacman}
+
+56.Robin- {reflet}
+
+57.Shulk- {shulk}
+
+58.Bowser JR.- {koopajr}
+
+59.Duck Hunt- {duckhunt}
+
+60.Ryu- {ryu}
+
+60E.Ken- {ken}
+
+61.Cloud- {cloud}
+
+62.Corrin- {kamui}
+
+63.Bayonetta- {bayonetta}
+
+64.Inkling- {inkling}
+
+65.Ridley- {ridley}
+
+66.Simon- {simon}
+
+66E.Richter- {richter}
+
+67.King K. Rool- {krool}
+
+68.Isabelle- {shizue}
+
+69.Incineroar- {gaogaen}
+
+70.Piranha Plant- {packun}
+
+71.Joker- {jack}
+
+72.Hero- {brave}
+
+73.Banjo & Kazooie- {buddy}
+
+74.Terry- {dolly}
+
+75.Byleth- {master}
+
+76.Min Min- {tantan}
+
+77.Steve- {pickel}
+
+78.Sephiroth- {edge}
+
+79.Pyra- {eflame}
+
+79M.Mythra- {elight}
+
+79B.Rex- {element}
+
+81.Kazuya- {demon}
+
+82.Sora- {trail}
