@@ -1,5 +1,5 @@
 
-<ModButton@Button>:
+<ModButton>:
     size_hint_y: None
     padding: 10, 10
     text_size: self.width, None
@@ -7,11 +7,12 @@
     halign: 'center'
     on_release: self.load_info()
 
-
+<FighterDropDown>
 
 <Main>:
     mod_list:mod_list
     info_box:info_box
+    dropdown:dropdown
 
     size_hint: 1, 1
     pos_hint: {'center_x': .5, 'center_y': .5}
@@ -38,9 +39,27 @@
                         size: self.size
                 Button:
                     size_hint_x:None
+                    padding_x:10
                     text:'Refresh Mods'
                     on_release: root.load_mods()
-
+                    width: self.texture_size[0]
+                FighterDropDown:
+                    main:root
+                    search:search
+                    id:dropdown
+                TextInput:
+                    id:search
+                    on_touch_down:
+                        if self.collide_point(*args[1].pos) and self.text == "Search...": self.text = ""
+                    on_focus:
+                        if self.focus == False and self.text == "": self.text = "Search..."
+                    size_hint_x:2
+                    text:'Search...'
+                    multiline: False
+                    valign: 'middle'
+                    padding_y: [self.height / 2.0 - (self.line_height / 2.0) * len(self._lines), 0]
+                    on_text_validate:
+                        root.search(self.text)
             BoxLayout:
                 orientation:"horizontal"
                 ScrollView:
@@ -51,13 +70,13 @@
                         cols: 1
                         size_hint_y: None
                         height: self.minimum_height
-                        Button:
-                            text:"test1"
-                            size_hint_y: None
-                            on_release: root.add_mod()
                         Label:
-                            text:"test2"
+                            text:"Set the paths in the settings and refresh mods to make them show up here."
                             size_hint_y: None
+                            padding: 10, 10
+                            text_size: self.width, None
+                            size: self.texture_size
+                            halign: 'center'
                 BoxLayout:
                     canvas.before:
                         Color:
@@ -78,12 +97,19 @@
                         Label:
                             id:chars
                             size_hint_y: 0.2
+                            text: "Character name"
                         Label:
                             id:title
                             size_hint_y: 0.2
+                            text: "Mod name"
                         Label:
                             id:link
                             size_hint_y: None
+                            markup: True
+                            text: "Gamebanana URL"
+                            on_ref_press:
+                                import webbrowser
+                                webbrowser.open(args[1])
                         AsyncImage
                             id:image
                             size_hint_y: None
@@ -96,6 +122,8 @@
                                 pos: self.pos
                                 size: self.size
                         id:skins
+                        Label:
+                            text: "Slots info"
 
 
 

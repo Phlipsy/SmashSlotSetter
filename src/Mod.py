@@ -18,6 +18,8 @@ class ModFolder:
         self.name = self.get_name()
         self.mods = self.get_submods()
         self.valid = len(self.mods) > 0
+        self.fighters = self.get_all_fighters()
+        self.codes = self.get_all_codes()
 
     def get_gb_data(self):
         data = {}
@@ -35,7 +37,7 @@ class ModFolder:
         try:
             img = requests.get("https://api.gamebanana.com/Core/Item/Data",
                                {"itemtype": "Mod", "itemid": self.metadata['id'],
-                                "fields": "Preview().sStructuredDataFullsizeUrl()"}).json()[0]
+                                "fields": "Preview().sSubFeedImageUrl()"}).json()[0]
         except Exception:
             img = ""
         return img
@@ -65,6 +67,13 @@ class ModFolder:
         for mod in self.mods:
             if mod.fighter:
                 fighters.update(mod.fighter.chars)
+        return fighters
+
+    def get_all_codes(self):
+        fighters = set([])
+        for mod in self.mods:
+            if mod.fighter:
+                fighters.update(mod.fighter.codes)
         return fighters
 
 
