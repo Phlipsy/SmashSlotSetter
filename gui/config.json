@@ -1,35 +1,42 @@
 [
     {
         "type": "path",
-        "title": "Folder 1",
+        "title": "Output Folder",
+        "desc": "The folder where the program will copy the mod pack to",
+        "section": "custom",
+        "key": "out_dir"
+    },
+    {
+        "type": "path",
+        "title": "Mod Folder 1",
         "desc": "One of the folders where the program will look for mods",
         "section": "custom",
         "key": "mod_dirs0"
     },
     {
         "type": "path",
-        "title": "Folder 2",
+        "title": "Mod Folder 2",
         "desc": "One of the folders where the program will look for mods",
         "section": "custom",
         "key": "mod_dirs1"
     },
     {
         "type": "path",
-        "title": "Folder 3",
+        "title": "Mod Folder 3",
         "desc": "One of the folders where the program will look for mods",
         "section": "custom",
         "key": "mod_dirs2"
     },
     {
         "type": "path",
-        "title": "Folder 4",
+        "title": "Mod Folder 4",
         "desc": "One of the folders where the program will look for mods",
         "section": "custom",
         "key": "mod_dirs3"
     },
     {
         "type": "path",
-        "title": "Folder 5",
+        "title": "Mod Folder 5",
         "desc": "One of the folders where the program will look for mods",
         "section": "custom",
         "key": "mod_dirs4"

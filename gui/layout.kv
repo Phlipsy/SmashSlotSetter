@@ -9,10 +9,36 @@
 
 <FighterDropDown>
 
-<Main>:
+<ModDropDown>
+    auto_width: False
+
+<SlotsTab>
+
+<ModDDButton>
+    size_hint_y: None
+    size_hint_x: 1
+    height: 30
+    padding: 5, 5
+    halign: "left"
+    width: 400
+
+<RefButton>
+    size_hint: None, None
+    size: 30, 30
+    pos_hint: {'y': .1}
+    background_color: (.8, .8, .8, 1)
+    Image:
+        source: 'gui/link.png'
+        y: self.parent.y
+        x: self.parent.x
+        size: 30, 30
+        allow_stretch: True
+
+<SmashSlotSetter>:
     mod_list:mod_list
     info_box:info_box
     dropdown:dropdown
+    slots_tab:slots_tab
 
     size_hint: 1, 1
     pos_hint: {'center_x': .5, 'center_y': .5}
@@ -124,6 +150,31 @@
                         id:skins
                         Label:
                             text: "Slots info"
+
+    TabbedPanelItem:
+        text: 'Slots'
+        BoxLayout:
+            orientation:"vertical"
+            SlotsTab:
+                id:slots_tab
+            BoxLayout:
+                orientation:"horizontal"
+                size_hint_y:.12
+                Button:
+                    text:"Convert Slots for Fighter"
+                    on_release:
+                        slots_tab.content.safe_config()
+                        root.make_modpack_single(slots_tab.content.fighter)
+                Button:
+                    text:"Convert Slots for All"
+                    on_release: root.make_full_modpack()
+                Button:
+                    slots_tab:slots_tab
+                    text:"Reset this Fighter"
+                    on_release: root.reset_config_single(slots_tab.content.fighter)
+                Button:
+                    text:"Reset All"
+                    on_release: root.reset_config()
 
 
 

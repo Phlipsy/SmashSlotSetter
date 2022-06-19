@@ -384,7 +384,7 @@ Bowser JR. c06 (Lemmy skin)
 			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_001_1_emi.nutexb",
 			"fighter/koopajr/model/body/c00/leyes_alp_ludwig_002_1_col.nutexb",
 			"fighter/koopajr/model/body/c00/leyes_lemmy_eye_1_col.nutexb",
-			"fighter/koopajr/model/body/c00/metal_lemmy_001_col.nutexb"	
+			"fighter/koopajr/model/body/c00/metal_lemmy_001_col.nutexb"
 		]
 	Over c01,c04, or c05
 		"fighter/koopajr/c01": [
@@ -398,7 +398,7 @@ Bowser JR. c06 (Lemmy skin)
 			"fighter/koopajr/model/body/c01/lemmy_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c01/lemmy_eye_gold_col.nutexb",
 			"fighter/koopajr/model/body/c01/leyes_lemmy_eye_1_col.nutexb",
-			"fighter/koopajr/model/body/c01/metal_lemmy_001_col.nutexb"	
+			"fighter/koopajr/model/body/c01/metal_lemmy_001_col.nutexb"
 		]
 	Over c02 or c03
 		"fighter/koopajr/c02": [
@@ -416,7 +416,7 @@ Bowser JR. c06 (Lemmy skin)
 			"fighter/koopajr/model/body/c02/lemmy_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c02/lemmy_eye_gold_col.nutexb",
 			"fighter/koopajr/model/body/c02/leyes_lemmy_eye_1_col.nutexb",
-			"fighter/koopajr/model/body/c02/metal_lemmy_001_col.nutexb"	
+			"fighter/koopajr/model/body/c02/metal_lemmy_001_col.nutexb"
 		]
 	Over c07
 		"fighter/koopajr/c07": [
@@ -431,7 +431,7 @@ Bowser JR. c06 (Lemmy skin)
 			"fighter/koopajr/model/body/c07/lemmy_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c07/lemmy_eye_gold_col.nutexb",
 			"fighter/koopajr/model/body/c07/leyes_lemmy_eye_1_col.nutexb",
-			"fighter/koopajr/model/body/c07/metal_lemmy_001_col.nutexb"	
+			"fighter/koopajr/model/body/c07/metal_lemmy_001_col.nutexb"
 		]
 Bowser JR. c07 (Ludwig skin)
 	Over c00
@@ -460,8 +460,8 @@ Bowser JR. c07 (Ludwig skin)
 			"fighter/koopajr/model/body/c00/leyes_ludwig_eye_1_col.nutexb",
 			"fighter/koopajr/model/body/c00/ludwig_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c00/ludwig_eye_gold_col.nutexb",
-			"fighter/koopajr/model/body/c00/metal_ludwig_001_col.nutexb"	
-		]	
+			"fighter/koopajr/model/body/c00/metal_ludwig_001_col.nutexb"
+		]
 	Over c01,c04,c05, or c06
 		"fighter/koopajr/c01": [
 			"fighter/koopajr/model/body/c01/body_ludwig_001_col.nutexb",
@@ -475,7 +475,7 @@ Bowser JR. c07 (Ludwig skin)
 			"fighter/koopajr/model/body/c01/leyes_ludwig_eye_1_col.nutexb",
 			"fighter/koopajr/model/body/c01/ludwig_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c01/ludwig_eye_gold_col.nutexb",
-			"fighter/koopajr/model/body/c01/metal_ludwig_001_col.nutexb"	
+			"fighter/koopajr/model/body/c01/metal_ludwig_001_col.nutexb"
 		]
 	Over c02 or c03
 		"fighter/koopajr/c02": [
@@ -493,7 +493,7 @@ Bowser JR. c07 (Ludwig skin)
 			"fighter/koopajr/model/body/c02/leyes_ludwig_eye_1_col.nutexb",
 			"fighter/koopajr/model/body/c02/ludwig_eye_black_col.nutexb",
 			"fighter/koopajr/model/body/c02/ludwig_eye_gold_col.nutexb",
-			"fighter/koopajr/model/body/c02/metal_ludwig_001_col.nutexb"	
+			"fighter/koopajr/model/body/c02/metal_ludwig_001_col.nutexb"
 		]
 Byleth Even Slot (Male skin)
 	Over Odd
@@ -577,7 +577,7 @@ Byleth Odd Slot (Female skin)
 			"fighter/master/model/body/c00/skin_master_female_004_col.nutexb",
 			"fighter/master/model/body/c00/skin_master_female_004_nor.nutexb",
 			"fighter/master/model/body/c00/skin_master_female_004_prm.nutexb"
-		]		
+		]
 Cloud Even Slot (FFVII skin)
 	Over Odd
 		"fighter/cloud/c01": [
@@ -1110,7 +1110,7 @@ Inkling c05 (Cyan skin)
 		]
 Inkling c06 (Purple skin)
 	Over any other
-		"fighter/inkling/c00": [	
+		"fighter/inkling/c00": [
 			"fighter/inkling/model/body/c00/alp_inkling_c06_001_col.nutexb",
 			"fighter/inkling/model/body/c00/alp_inkling_c06_001_nor.nutexb",
 			"fighter/inkling/model/body/c00/alp_inkling_c06_001_prm.nutexb",
@@ -1651,7 +1651,7 @@ Pikachu c06 (Selene's cap skin)
 			"fighter/pikachu/model/body/c07/def_pikachuparts_006_col.nutexb",
 			"fighter/pikachu/model/body/c07/def_pikachuparts_006_nor.nutexb",
 			"fighter/pikachu/model/body/c07/def_pikachuparts_006_prm.nutexb"
-		]	
+		]
 Pikachu c07 (Libre skin)
 	Over c00,c01,c02,c03,c04, or c05
 		"fighter/pikachu/c00": [
@@ -1683,7 +1683,7 @@ Piranha Plant Odd (Pipe skin)
 			"fighter/packun/model/body/c00/metal_packun_002_col.nutexb",
 			"fighter/packun/model/body/c00/metal_packun_002_nor.nutexb",
 			"fighter/packun/model/body/c00/metal_packun_002_prm.nutexb"
-		]		
+		]
 Pokemon Trainer Even Slot (Male skin)
 	Over Odd
 		"fighter/ptrainer/c01": [
@@ -1901,7 +1901,7 @@ Sora c00 (KH1 skin)
 		"fighter/trail/c01": [
 			"fighter/trail/model/body/c01/def_trail_001_col.nutexb",
 			"fighter/trail/model/body/c01/def_trail_001_nor.nutexb",
-			"fighter/trail/model/body/c01/def_trail_001_prm.nutexb"			
+			"fighter/trail/model/body/c01/def_trail_001_prm.nutexb"
 		]
 	over c03 or c07
 		"fighter/trail/c03": [
@@ -1910,7 +1910,7 @@ Sora c00 (KH1 skin)
 			"fighter/trail/model/body/c03/def_trail_001_prm.nutexb"
 			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
 			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
-			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"
 		]
 	over c04
 		"fighter/trail/c04": [
@@ -1931,14 +1931,14 @@ Sora c00 (KH1 skin)
 			"fighter/trail/model/body/c04/skin_trail_003_prm.nutexb",
 			"fighter/trail/model/body/c04/skin_trail_004_col.nutexb",
 			"fighter/trail/model/body/c04/skin_trail_004_nor.nutexb",
-			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb"			
+			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb"
 	]
 Sora c01 (KH2 skin)
 	over c00,c02,c05, or c06
 		"fighter/trail/c00": [
 			"fighter/trail/model/body/c00/def_trail2_001_col.nutexb",
 			"fighter/trail/model/body/c00/def_trail2_001_nor.nutexb",
-			"fighter/trail/model/body/c00/def_trail2_001_prm.nutexb"			
+			"fighter/trail/model/body/c00/def_trail2_001_prm.nutexb"
 		]
 	over c03 or c07
 		"fighter/trail/c03": [
@@ -1947,7 +1947,7 @@ Sora c01 (KH2 skin)
 			"fighter/trail/model/body/c03/def_trail2_001_prm.nutexb",
 			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
 			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
-			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"
 		]
 	over c04
 		"fighter/trail/c04": [
@@ -1971,14 +1971,14 @@ Sora c01 (KH2 skin)
 			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb",
 			"fighter/trail/model/body/c04/def_trail2_001_col.nutexb",
 			"fighter/trail/model/body/c04/def_trail2_001_nor.nutexb",
-			"fighter/trail/model/body/c04/def_trail2_001_prm.nutexb"			
+			"fighter/trail/model/body/c04/def_trail2_001_prm.nutexb"
 		]
 Sora c02 (KH3D skin)
 	over c00,c01,c05, or c06
 		"fighter/trail/c00": [
 			"fighter/trail/model/body/c00/def_trail3d_001_col.nutexb",
 			"fighter/trail/model/body/c00/def_trail3d_001_nor.nutexb",
-			"fighter/trail/model/body/c00/def_trail3d_001_prm.nutexb"			
+			"fighter/trail/model/body/c00/def_trail3d_001_prm.nutexb"
 		]
 	over c03 or c07
 		"fighter/trail/c03": [
@@ -1987,7 +1987,7 @@ Sora c02 (KH3D skin)
 			"fighter/trail/model/body/c03/def_trail3d_001_prm.nutexb"
 			"fighter/trail/model/body/c03/skin_trail_001_col.nutexb",
 			"fighter/trail/model/body/c03/skin_trail_001_nor.nutexb",
-			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"			
+			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"
 		]
 	over c04
 		"fighter/trail/c04": [
@@ -2011,7 +2011,7 @@ Sora c02 (KH3D skin)
 			"fighter/trail/model/body/c04/skin_trail_004_prm.nutexb",
 			"fighter/trail/model/body/c04/def_trail3d_001_col.nutexb",
 			"fighter/trail/model/body/c04/def_trail3d_001_nor.nutexb",
-			"fighter/trail/model/body/c04/def_trail3d_001_prm.nutexb"			
+			"fighter/trail/model/body/c04/def_trail3d_001_prm.nutexb"
 		]
 Sora c03 (KH3 skin)
 	over c00,c01,c02,c05,c06, or c07
@@ -2021,7 +2021,7 @@ Sora c03 (KH3 skin)
 			"fighter/trail/model/body/c00/def_trail3_001_prm.nutexb",
 			"fighter/trail/model/body/c00/skin_trail3_001_col.nutexb",
 			"fighter/trail/model/body/c00/skin_trail3_001_nor.nutexb",
-			"fighter/trail/model/body/c00/skin_trail3_001_prm.nutexb"			
+			"fighter/trail/model/body/c00/skin_trail3_001_prm.nutexb"
 		]
 	over c04
 		"fighter/trail/c04": [
@@ -2048,7 +2048,7 @@ Sora c03 (KH3 skin)
 			"fighter/trail/model/body/c04/def_trail3_001_prm.nutexb",
 			"fighter/trail/model/body/c04/skin_trail3_001_col.nutexb",
 			"fighter/trail/model/body/c04/skin_trail3_001_nor.nutexb",
-			"fighter/trail/model/body/c04/skin_trail3_001_prm.nutexb"			
+			"fighter/trail/model/body/c04/skin_trail3_001_prm.nutexb"
 		]
 Sora c04 (Timeless River skin)
 	over c00
@@ -2062,7 +2062,7 @@ Sora c04 (Timeless River skin)
 			"fighter/trail/model/body/c00/eye_trail_g_c04_r_col.nutexb",
 			"fighter/trail/model/body/c00/skin_trail_002_col.nutexb",
 			"fighter/trail/model/body/c00/skin_trail_002_nor.nutexb",
-			"fighter/trail/model/body/c00/skin_trail_002_prm.nutexb"			
+			"fighter/trail/model/body/c00/skin_trail_002_prm.nutexb"
 		]
 	over c01,c02,c05, or c06
 		"fighter/trail/c01": [
@@ -2078,7 +2078,7 @@ Sora c04 (Timeless River skin)
 			"fighter/trail/model/body/c01/eye_trail_g_c04_r_col.nutexb",
 			"fighter/trail/model/body/c01/skin_trail_002_col.nutexb",
 			"fighter/trail/model/body/c01/skin_trail_002_nor.nutexb",
-			"fighter/trail/model/body/c01/skin_trail_002_prm.nutexb"			
+			"fighter/trail/model/body/c01/skin_trail_002_prm.nutexb"
 		]
 	over c03 or c07
 		"fighter/trail/c03": [
@@ -2097,7 +2097,7 @@ Sora c04 (Timeless River skin)
 			"fighter/trail/model/body/c03/skin_trail_001_prm.nutexb"
 			"fighter/trail/model/body/c03/skin_trail_002_col.nutexb",
 			"fighter/trail/model/body/c03/skin_trail_002_nor.nutexb",
-			"fighter/trail/model/body/c03/skin_trail_002_prm.nutexb"			
+			"fighter/trail/model/body/c03/skin_trail_002_prm.nutexb"
 		]
 Villager Even Slot (Male skin)
 	Over Odd
@@ -2107,7 +2107,7 @@ Villager Even Slot (Male skin)
 			"fighter/murabito/model/body/c01/def_murabito_001_prm.nutexb"
 		]
 Villager Odd Slot (Female skin)
-	Over Even	
+	Over Even
 		"fighter/murabito/c00": [
 			"fighter/murabito/model/body/c00/def_murabito_c01_001_col.nutexb",
 			"fighter/murabito/model/body/c00/def_murabito_c01_001_nor.nutexb",
@@ -2189,7 +2189,7 @@ Zero Suit Samus c00-c05 (Zero Suit skin)
 			"fighter/szerosuit/model/body/c06/def_szerosuit_001_col.nutexb",
 			"fighter/szerosuit/model/body/c06/def_szerosuit_001_emi.nutexb",
 			"fighter/szerosuit/model/body/c06/def_szerosuit_001_nor.nutexb",
-			"fighter/szerosuit/model/body/c06/def_szerosuit_001_prm.nutexb"			
+			"fighter/szerosuit/model/body/c06/def_szerosuit_001_prm.nutexb"
 		]
 Zero Suit Samus c06 (Zero Mission Casual skin)
 	over c00,c01,c02,c03,c04, or c05
@@ -2206,7 +2206,7 @@ Zero Suit Samus c06 (Zero Mission Casual skin)
 			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_prm.nutexb",
 			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_col.nutexb",
 			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_nor.nutexb",
-			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_prm.nutexb"			
+			"fighter/szerosuit/model/body/c00/skin_szerosuit06_002_prm.nutexb"
 		]
 	over c07
 		"fighter/szerosuit/c07": [
@@ -2218,7 +2218,7 @@ Zero Suit Samus c06 (Zero Mission Casual skin)
 			"fighter/szerosuit/model/body/c07/metal_szerosuit07_001_prm.nutexb",
 			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_col.nutexb",
 			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_nor.nutexb",
-			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_prm.nutexb"			
+			"fighter/szerosuit/model/body/c07/skin_szerosuit06_002_prm.nutexb"
 		]
 Zero Suit Samus c07 (Metroid Fusion Casual skin)
 	over c00,c01,c02,c03,c04, or c05
@@ -2232,7 +2232,7 @@ Zero Suit Samus c07 (Metroid Fusion Casual skin)
 			"fighter/szerosuit/model/body/c00/metal_szerosuit06_001_prm.nutexb",
 			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_col.nutexb",
 			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_nor.nutexb",
-			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_prm.nutexb"			
+			"fighter/szerosuit/model/body/c00/skin_szerosuit_002_prm.nutexb"
 		]
 	over c06
 		"fighter/szerosuit/c06": [

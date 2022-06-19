@@ -1,6 +1,9 @@
+import logging
 import os
 import re
 import json
+import logging
+from logging import log
 from pprint import pprint
 from src.help.fighter_names.util import c2f, n2cs, c2n
 
@@ -74,6 +77,10 @@ def get_replacement(fighter_code, orig_slot, over_slot):
 def make_config(out_path, combinations, custom_config_path=""):
     # combinations = {'ike': [('c01', 'c04'), ('c01', 'c04')], 'wario': [('c01', 'c04'), ('c01', 'c04')]}
     config_dict = {}
+    out_file = os.path.join(out_path, "config.json")
+    if os.path.exists(out_file):
+        with open(out_file, "r", encoding="utf8") as f:
+            config_dict = json.load(f)["new-dir-files"]
     for code, replacements in combinations.items():
         for repl in replacements:
             repl_dict = get_replacement(code, repl[0], repl[1])
@@ -81,27 +88,36 @@ def make_config(out_path, combinations, custom_config_path=""):
                 config_dict.update(repl_dict)
             if custom_config_path:
                 custom_config = read_config_part(custom_config_path, code, repl[0], repl[1])
-                for slot_path, file_list in custom_config.items():
-                    if slot_path in config_dict:
-                        config_dict[slot_path] += [f for f in file_list if f not in config_dict[slot_path]]
-                    else:
-                        config_dict[slot_path] = file_list
+                if custom_config:
+                    for slot_path, file_list in custom_config.items():
+                        if slot_path in config_dict:
+                            config_dict[slot_path] += [f for f in file_list if f not in config_dict[slot_path]]
+                        else:
+                            config_dict[slot_path] = file_list
 
     if config_dict:
-        with open(os.path.join(out_path, "config.json"), "w", encoding="utf8") as f:
+        with open(out_file, "w", encoding="utf8") as f:
             json.dump({"new-dir-files": config_dict}, f, indent=4)
 
 
 def read_config_part(in_path, fighter_code, orig_slot, over_slot):
-    with open(os.path.join(in_path, "config.json"), "r", encoding="utf8") as f:
+    config_path = os.path.join(in_path, "config.json")
+    if not os.path.exists(config_path):
+        return {}
+    with open(config_path, "r", encoding="utf8") as f:
         config = json.load(f)
     config_key = f"fighter/{fighter_code}/{orig_slot}"
+    if "new_dir_files" in config:
+        config["new-dir-files"] = config["new_dir_files"]
+        del(config["new_dir_files"])
+    if "new-dir-files" not in config:
+        log(logging.WARN, f"config.json found for {in_path}/{fighter_code} but no new-dir-files found in {config}")
+        return {}
     if config_key not in config["new-dir-files"]:
         return {}
     slot_config = config["new-dir-files"][config_key]
     new_config = {f"fighter/{fighter_code}/{over_slot}": [s.replace(f"/{orig_slot}/", f"/{over_slot}/") for s in slot_config]}
     return new_config
-
 
 
 if __name__ == "__main__":

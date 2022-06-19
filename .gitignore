@@ -132,3 +132,5 @@ dmypy.json
 Neuer Ordner
 found_mods.txt
 Mods/
+logs/
+modpack_config.json
